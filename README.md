@@ -1,0 +1,2 @@
+# Global-Music-Trends-With-Spotify-Chart-Data
+Class project for STA 220 Winter 2026. This project webscrapes Spotify charts and uses the MusicBrainz and Spotify APIs to match artist and song info. Analysis includes country and song comparisons through maps and visualizations as well as lyrical analysis through natural language processing.
