@@ -1,0 +1,401 @@
+﻿rank,track_artist,peak,prev,streak,streams,track_name,artist_name,duration_ms,explicit,is_local,release_date,artist_id,track_id,duration_sec
+1,"LA VILLA
+Ryan Castro, Kapo, Gangsta",1,2.0,8,2157844,LA VILLA,"Ryan Castro, Kapo, Gangsta",192111.0,True,False,2025-10-23,7j6DKwmjbxvpQO8h914uEz,2ZyrAym0sRLwt4PhGotHuI,192
+2,"BAILE INoLVIDABLE
+Bad Bunny",1,1.0,60,1915072,BAILE INoLVIDABLE,Bad Bunny,367725.0,True,False,2025-01-05,4q3ewBCX7sLwd24euuV69X,2lTm559tuIvatlT1u0JYG2,368
+3,"DtMF
+Bad Bunny",1,3.0,60,1706009,DtMF,Bad Bunny,237117.0,True,False,2025-01-05,4q3ewBCX7sLwd24euuV69X,3sK8wGT43QFpWrvNQsrQya,237
+4,"Soy Favela
+La T y La M",2,6.0,12,1675117,Soy Favela,La T y La M,166000.0,False,False,2025-12-04,1FxPMQ9A0882eNDx3ZkD6B,3TfRpsYPQSXqqramSoWlNg,166
+5,"UWAIE - versión cumbia
+Max Carra",2,7.0,50,1592177,UWAIE - versión cumbia,Max Carra,162947.0,False,False,2024-09-19,483P9cJ9pdCoc08XvNunPL,6UO9DhCUq4ZbQz7PXwelFV,163
+6,"Cuando No Era Cantante
+El Bogueto, Yung Beef",1,10.0,21,1572047,Cuando No Era Cantante,"El Bogueto, Yung Beef",327488.0,True,False,2025-12-10,3S9Hg7sRKhmtWunFZ2yAYP,2pbSCYzxrG0wa6qcj8IyiE,327
+7,"VOY A LLeVARTE PA PR
+Bad Bunny",4,4.0,60,1464146,VOY A LLeVARTE PA PR,Bad Bunny,156364.0,True,False,2025-01-05,4q3ewBCX7sLwd24euuV69X,59D4DOkspUbWyMmbAPQkxZ,156
+8,"Puñaladas
+Lauta, Amigo de Artistas, Tote",8,17.0,7,1354188,Puñaladas,"Lauta, Amigo de Artistas, Tote",139578.0,False,False,2025-11-20,5ELYwDwhy00ecTXhfsKWci,4AL4EamHEBKPpdcFRkYdXN,140
+9,"EoO
+Bad Bunny",8,8.0,60,1353323,EoO,Bad Bunny,204768.0,True,False,2025-01-05,4q3ewBCX7sLwd24euuV69X,6J5kc12BW5HuP3d7C3vvx8,205
+10,"Tu jardín con enanitos
+Roze Oficial, Max Carra, Valen, RAMKY EN LOS CONTROLES",1,11.0,40,1312160,Tu jardín con enanitos,"Roze Oficial, Max Carra, Valen, RAMKY EN LOS CONTROLES",175059.0,False,False,2025-05-22,2Hxu0Wmd7FUm0euCVInVrN,6X8DTIJEgHUjZynuds0E2f,175
+11,"NUEVAYoL
+Bad Bunny",5,5.0,60,1281333,NUEVAYoL,Bad Bunny,183685.0,False,False,2025-01-05,4q3ewBCX7sLwd24euuV69X,5TFD2bmFKGhoCRbX61nXY5,184
+12,"Cuando No Era Cantante - Remix
+El Bogueto, Anuel AA, Fuerza Regida, Yung Beef",7,12.0,11,1229851,Cuando No Era Cantante - Remix,"El Bogueto, Anuel AA, Fuerza Regida, Yung Beef",327488.0,True,False,2025-12-10,3S9Hg7sRKhmtWunFZ2yAYP,2pbSCYzxrG0wa6qcj8IyiE,327
+13,"TU VAS SIN (fav)
+Rels B",3,15.0,32,1224280,TU VAS SIN (fav),Rels B,110495.0,False,False,2025-06-20,2IMZYfNi21MGqxopj9fWx8,6uiQ0DqbXTBc8tl0AUKZkR,110
+14,"VeLDÁ
+Bad Bunny, Omar Courtz, Dei V",6,9.0,60,1210139,VeLDÁ,"Bad Bunny, Omar Courtz, Dei V",235336.0,True,False,2025-01-05,4q3ewBCX7sLwd24euuV69X,7d6yK8v8J484SWH5prIQiE,235
+15,"La Perla
+ROSALÍA, Yahritza Y Su Esencia",1,16.0,16,1147265,La Perla,"ROSALÍA, Yahritza Y Su Esencia",195546.0,True,False,2025-11-07,7ltDVBr6mKbRvohxheJ9h1,4oVO4fGNRRvEn0CRuFO4qv,196
+16,"no tiene sentido
+Beéle",8,22.0,40,1062064,no tiene sentido,Beéle,158036.0,False,False,2025-05-15,7a0XAaPaK2aDSqa8p3QnC7,1HEwEN64NjgTaHmo7LfkX8,158
+17,"Amor de Vago
+La T y La M, Malandro",1,20.0,77,976793,Amor de Vago,"La T y La M, Malandro",188423.0,False,False,2024-08-23,1FxPMQ9A0882eNDx3ZkD6B,5MKbWaXeSQSmzmo7gPQha1,188
+18,"Pensamientos
+Airbag",13,23.0,49,966821,Pensamientos,Airbag,233839.0,False,False,2021-10-15,1wKDGglKV4FsFS85r2Dmpr,1H7ktqkQx1PIuPfNtqvaBs,234
+19,"KLOuFRENS
+Bad Bunny",14,19.0,60,950855,KLOuFRENS,Bad Bunny,199114.0,True,False,2025-01-05,4q3ewBCX7sLwd24euuV69X,4MUrUT38U98olfnyzMBCzm,199
+20,"Tití Me Preguntó
+Bad Bunny",3,13.0,3,934829,Tití Me Preguntó,Bad Bunny,243716.0,True,False,2022-05-06,4q3ewBCX7sLwd24euuV69X,1IHWl5LamUGEuP4ozKQSXZ,244
+21,"La Plena - W Sound 05
+W Sound, Beéle, Ovy On The Drums",1,25.0,52,929507,La Plena - W Sound 05,"W Sound, Beéle, Ovy On The Drums",150001.0,True,False,2025-02-19,5uwa6tAMMfNbBFIHiI6NV4,6iOndD4OFo7GkaDypWQIou,150
+22,"Niño
+Milo j",6,26.0,22,881137,Niño,Milo j,210533.0,False,False,2025-09-25,19HM5j0ULGSmEoRcrSe5x3,4aDbrgm1ZaebS1Bb2dOXac,211
+23,"Qué Pasaría...
+Rauw Alejandro, Bad Bunny",14,18.0,67,880119,Qué Pasaría...,"Rauw Alejandro, Bad Bunny",191018.0,True,False,2024-11-15,1mcTU81TzQhprhouKaTkpq,0l0vcZMU7AOeQmUIREoI2U,191
+24,"No Se Va
+La T y La M",22,24.0,67,860042,No Se Va,La T y La M,215372.0,False,False,2023-04-13,1FxPMQ9A0882eNDx3ZkD6B,1Zh6HllrXT0Khrwk2j3TrZ,215
+25,"mi refe
+Beéle, Ovy On The Drums",16,27.0,60,855479,mi refe,"Beéle, Ovy On The Drums",159404.0,False,False,2025-05-15,7a0XAaPaK2aDSqa8p3QnC7,4zhk2RS2EZODmBW6il55Qj,159
+26,"LA CANCIÓN
+J Balvin, Bad Bunny",7,14.0,15,852123,LA CANCIÓN,"J Balvin, Bad Bunny",242573.0,False,False,2019-06-28,1vyhD5VmyZ7KMfW5gqLgo5,0fea68AdmYNygeTGI4RC18,243
+27,"YO y TÚ
+Ovy On The Drums, Quevedo, Beéle",4,31.0,37,837380,YO y TÚ,"Ovy On The Drums, Quevedo, Beéle",198153.0,False,False,2025-06-11,3m5qlPf2OkihLz3dRYnkPA,7koAf6aZgjO6TS7bipfPD0,198
+28,"SOLEAO
+Myke Towers, Quevedo",4,30.0,39,833761,SOLEAO,"Myke Towers, Quevedo",218305.0,False,False,2025-07-17,7iK8PXO48WeuP03g8YR51W,4OsBqqMwFabHATATT527tH,218
+29,"capaz (merengueton)
+Alleh, Yorghaki",3,29.0,59,833062,capaz (merengueton),"Alleh, Yorghaki",173858.0,False,False,2024-12-24,3DeOmVSmpv7WknXoo1OS8p,2dd3G3ZqEcG2cNS1tp3oEk,174
+30,"Daddy Yankee: Bzrp Music Sessions, Vol. 0/66
+Bizarrap, Daddy Yankee",1,28.0,17,827705,"Daddy Yankee: Bzrp Music Sessions, Vol. 0/66","Bizarrap, Daddy Yankee",151805.0,False,False,2025-11-05,716NhGYqD1jl2wI1Qkgq36,2uPMsTEKx79gJ8rB3AcT0v,152
+31,"Diles
+Bad Bunny, Ozuna, Farruko, Arcángel, Ñengo Flow, DJ Luian, Mambo Kingz",25,36.0,39,795558,Diles,"Bad Bunny, Ozuna, Farruko, Arcángel, Ñengo Flow, DJ Luian, Mambo Kingz",286040.0,True,False,2016-08-26,4q3ewBCX7sLwd24euuV69X,6C1RD7YQVvt3YQj0CmuTeu,286
+32,"Como Eran Las Cosas
+Babasonicos",11,34.0,118,786746,Como Eran Las Cosas,Babasonicos,240520.0,False,False,2008-01-01,2F9pvj94b52wGKs0OqiNi2,61qPUnazSdkvua4wgA4L8C,241
+33,"TENGO UN FEELING
+PEPU, Pizzu",13,32.0,8,760366,TENGO UN FEELING,"PEPU, Pizzu",197264.0,False,False,2025-12-30,2uHt84x3H1VLR7xFBAuNS8,4ezApj4UvVqLOtxdXUOLMb,197
+34,"WELTiTA
+Bad Bunny, Chuwi",7,21.0,14,751533,WELTiTA,"Bad Bunny, Chuwi",187507.0,False,False,2025-01-05,4q3ewBCX7sLwd24euuV69X,5WEF0icHWmAZBBMglBd599,188
+35,"J Balvin: Bzrp Music Sessions, Vol. 62/66
+Bizarrap, J Balvin",9,39.0,9,739195,"J Balvin: Bzrp Music Sessions, Vol. 62/66","Bizarrap, J Balvin",190384.0,False,False,2025-12-26,716NhGYqD1jl2wI1Qkgq36,04YMLAsyIAe1sLb6RO5YcC,190
+36,"FOREVER TU GANTEL
+Omar Courtz, Ñengo Flow",36,,1,713163,FOREVER TU GANTEL,"Omar Courtz, Ñengo Flow",226533.0,True,False,2026-02-19,3E12tRURRvPfHz0hAMCFYc,1YAWMfsmduIrpqrjP45pFn,227
+37,"Con Otra
+Cazzu",6,43.0,49,698031,Con Otra,Cazzu,231016.0,False,False,2025-04-24,6w3SkAHYPsQ1bxV7VDlG5y,2F6PBqz7aPA7K309aFKMHt,231
+38,"Por Mil Noches
+Airbag",18,38.0,319,683377,Por Mil Noches,Airbag,283884.0,False,False,2013-11-27,1wKDGglKV4FsFS85r2Dmpr,5vHWh24GAsXJ7tnIu8v7UN,284
+39,"YOGURCITO REMIX (feat. Kris R., ROA)
+Blessd, Anuel AA, Yan Block, Luar La L, Kris R., ROA",13,42.0,26,677054,"YOGURCITO REMIX (feat. Kris R., ROA)","Blessd, Anuel AA, Yan Block, Luar La L, Kris R., ROA",375381.0,True,False,2025-08-26,1TA5sGRlKUJXBN4ZyJuDIX,7nrd0eIftH3NQLfgk20Qp9,375
+40,"Loco Enamorado I Varieté #4
+Tincho Di Salvo & Javi Zurro, Max Carra",24,44.0,15,674660,Loco Enamorado I Varieté #4,"Tincho Di Salvo & Javi Zurro, Max Carra",153000.0,False,False,2025-08-07,0mDd8pZbNfiDNBrL1qybaK,0UaxhDrvCVcCWCqYQUeeFF,153
+41,"End of Beginning
+Djo",15,50.0,13,667125,End of Beginning,Djo,159245.0,False,False,2022-09-16,5p9HO3XC5P3BLxJs5Mtrhm,3qhlB30KknSejmIvZZLjOD,159
+42,"A las Nueve
+No Te Va Gustar",27,49.0,235,655281,A las Nueve,No Te Va Gustar,207533.0,False,False,2012-10-18,4ZDoy7AWNgQVmX7T0u0B1j,0CgpCtEPvyDizcg2p47VrU,208
+43,"HASTA QUE ME ENAMORO
+Maria Becerra, TINI, XROSS",8,48.0,23,641833,HASTA QUE ME ENAMORO,"Maria Becerra, TINI, XROSS",180881.0,False,False,2025-11-20,1DxLCyH42yaHKGK3cl5bvG,7rfYGYxsZzQAhlJy5B0IcW,181
+44,"NO ME QUIERO CASAR
+Bad Bunny",37,37.0,9,638342,NO ME QUIERO CASAR,Bad Bunny,225654.0,True,False,2023-10-13,4q3ewBCX7sLwd24euuV69X,39L3LdlHS3gqB62HPWaJRg,226
+45,"QLOO*
+Young Cister, Kreamly",2,46.0,35,630237,QLOO*,"Young Cister, Kreamly",146460.0,False,False,2025-05-22,0Yg29FX1M4ayqjXs0ttZFq,2mdrVnxEnPR6iFijakkxQS,146
+46,"MONACO
+Bad Bunny",12,33.0,3,623244,MONACO,Bad Bunny,267194.0,True,False,2023-10-13,4q3ewBCX7sLwd24euuV69X,4MjDJD8cW7iVeWInc2Bdyj,267
+47,"Cuentame
+Felix Record",46,52.0,9,602845,Cuentame,Felix Record,212558.0,False,False,2024-12-26,1Agqp73nARz3vFG9HPogts,2lg4MDfkK2ya3dEAFu6Wh8,213
+48,"TU MISTERIOSO ALGUIEN (CUARTETO) (feat. Miranda!)
+Luck Ra, Miranda!",2,40.0,24,599638,TU MISTERIOSO ALGUIEN (CUARTETO) (feat. Miranda!),"Luck Ra, Miranda!",156413.0,False,False,2025-09-11,4kcQWQDK0u9AftVSpdrAgk,4Kzi8hXKkT87SQoYClizh0,156
+49,"Adiós
+Gustavo Cerati",45,57.0,49,597622,Adiós,Gustavo Cerati,233746.0,False,False,2006-04-04,1QOmebWGB6FdFtW7Bo3F0W,1rh4kDY9T4fHVDum8Foi5k,234
+50,"HACE CALOR
+Maria Becerra, El Alfa, XROSS",16,59.0,14,591692,HACE CALOR,"Maria Becerra, El Alfa, XROSS",146000.0,False,False,2025-11-20,1DxLCyH42yaHKGK3cl5bvG,4tabsd3NLLwuT90wkuNh7C,146
+51,"Hasta Que Dios Diga
+Anuel AA, Bad Bunny",7,97.0,39,589184,Hasta Que Dios Diga,"Anuel AA, Bad Bunny",246000.0,True,False,2020-05-29,2R21vXR83lH98kGeO99Y66,06s3QtMJVXw1AJX3UfvZG1,246
+52,"Tan Lejos
+No Te Va Gustar, Juan Casanova",28,70.0,112,543922,Tan Lejos,"No Te Va Gustar, Juan Casanova",298000.0,False,False,2008-10-23,4ZDoy7AWNgQVmX7T0u0B1j,44m9PAUZYeOEGeaTYh6NAl,298
+53,"JETSKI - Remix
+PEDRO SAMPAIO, Emilia, MC Meno K, Melody",53,,1,543640,JETSKI - Remix,"PEDRO SAMPAIO, Emilia, MC Meno K, Melody",181741.0,True,False,2026-02-12,5wbf52LA6kcaboHSN6NEF1,7z26frY6O7BXwyjeqzYo7W,182
+54,"Es un Secreto
+Plan B",28,64.0,145,538343,Es un Secreto,Plan B,190560.0,False,False,2010-07-20,2jSGzJw0ebJLu7OLVSOcBP,3Btqti3QpzZZr6uz5mlNzz,191
+55,"Nunca quise
+Intoxicados",49,58.0,474,538221,Nunca quise,Intoxicados,260371.0,False,False,2005,4VgvR7eu3k2T20mo6mXhXF,0ZAJ660VP57lLK4U7NlGOy,260
+56,"Me Rehúso
+Danny Ocean",1,56.0,8,535946,Me Rehúso,Danny Ocean,205714.0,False,False,2019-03-22,5H1nN1SzW0qNeUEZvuXjAj,6ifUES3keWjwXgae8pXI3o,206
+57,"Otra Noche en Miami
+Bad Bunny",41,41.0,2,531365,Otra Noche en Miami,Bad Bunny,233128.0,True,False,2018-12-23,4q3ewBCX7sLwd24euuV69X,4vCAzANUWDE24URV6wQ4ra,233
+58,"Pasos Al Costado
+Turf",52,66.0,138,528264,Pasos Al Costado,Turf,256555.0,False,False,2004-01-01,0Zncosr79q01riJYbSBNA1,7upAH0ezzsThyvr33YKn4u,257
+59,"The Fate of Ophelia
+Taylor Swift",2,81.0,21,525730,The Fate of Ophelia,Taylor Swift,226073.0,False,False,2025-10-03,06HL4z0CvFAxyc27GXpf02,53iuhJlwXhSER5J2IYYv1W,226
+60,"Cuidado Que Te Supero
+Q' Lokura, Los Herrera",40,54.0,74,523757,Cuidado Que Te Supero,"Q' Lokura, Los Herrera",168980.0,False,False,2024-01-20,7dlkBH23ERFXxuNoMHq94Y,2Xetks48zQL2K7xUbJBHRn,169
+61,"Un Ángel para Tu Soledad
+Patricio Rey y sus Redonditos de Ricota",58,79.0,91,523021,Un Ángel para Tu Soledad,Patricio Rey y sus Redonditos de Ricota,231533.0,False,False,1993-04-12,6byQKddO1b34lXC2ZEjehQ,6kUopck7LHVadAjAFcXiTj,232
+62,"LADRON
+Luck Ra, Karina, RAMKY EN LOS CONTROLES",18,60.0,11,520833,LADRON,"Luck Ra, Karina, RAMKY EN LOS CONTROLES",114545.0,False,False,2025-12-11,4kcQWQDK0u9AftVSpdrAgk,2NMctdE1VuUUc4VctEqamB,115
+63,"Creo
+Callejeros",53,61.0,68,518240,Creo,Callejeros,289760.0,True,False,2006-03-21,2osoVujXgV0PA8lhqDKYFw,5Bi9Cq5oVFy1OtUgecbegZ,290
+64,"Fronteo
+Plan B",9,89.0,37,516918,Fronteo,Plan B,203973.0,False,False,2014-09-09,2jSGzJw0ebJLu7OLVSOcBP,5SE62j47eAyxSOplRGS6st,204
+65,"Piel
+Tiago PZK, Ke Personajes",2,71.0,108,516440,Piel,"Tiago PZK, Ke Personajes",142042.0,True,False,2024-07-04,5Y3MV9DZ0d87NnVm56qSY1,6kPCcIAGoTeRrh8qrmKa90,142
+66,"El Teléfono
+Héctor ""El Father"", Wisin & Yandel",39,63.0,21,505741,El Teléfono,"Héctor ""El Father"", Wisin & Yandel",,,,,,,
+67,"444
+Yan Block, Panda Black",24,95.0,52,498861,444,"Yan Block, Panda Black",175280.0,True,False,2024-04-04,6TKygPpVT29oGUogu4J9Ec,1o4xkdBe0RjSf2u6VXi4OI,175
+68,"Talento
+Yan Block, Panda Black",68,110.0,8,498063,Talento,"Yan Block, Panda Black",150857.0,True,False,2025-09-18,6TKygPpVT29oGUogu4J9Ec,7sChwC2NZjGc2Kdni3hlDg,151
+69,"WO OH OH
+Omar Courtz, ROA",69,,1,497166,WO OH OH,"Omar Courtz, ROA",269596.0,True,False,2026-02-19,3E12tRURRvPfHz0hAMCFYc,0h54mLixODOqU6vTcZMqVM,270
+70,"CAFé CON RON
+Bad Bunny, Los Pleneros de la Cresta",35,35.0,3,495767,CAFé CON RON,"Bad Bunny, Los Pleneros de la Cresta",228836.0,False,False,2025-01-05,4q3ewBCX7sLwd24euuV69X,6VNXmo59yDYgcwLS17UNAW,229
+71,"Moscow Mule
+Bad Bunny",1,51.0,12,494091,Moscow Mule,Bad Bunny,245939.0,True,False,2022-05-06,4q3ewBCX7sLwd24euuV69X,6Xom58OOXk2SoU711L2IXO,246
+72,"Gil
+Milo j, Trueno",17,84.0,22,494033,Gil,"Milo j, Trueno",233653.0,False,False,2025-09-25,19HM5j0ULGSmEoRcrSe5x3,5jgmQkVypORb3enASCxjYs,234
+73,"Bicho de Ciudad
+Los Piojos",68,75.0,13,493951,Bicho de Ciudad,Los Piojos,320760.0,False,False,2007-08-07,0SnyKkoyBaB2fG8IJH4xmU,0oCiPqIEL5218yu2D996eP,321
+74,"TODO KE VER
+Jere Klein, Katteyes, Mateo on the Beatz",3,80.0,28,493614,TODO KE VER,"Jere Klein, Katteyes, Mateo on the Beatz",158350.0,False,False,2025-08-13,35oGZihZclGoTVuICPXRP9,47aX1tXPTBpAG8Y2iAYmiy,158
+75,"Ojitos Lindos
+Bad Bunny, Bomba Estéreo",1,53.0,4,488227,Ojitos Lindos,"Bad Bunny, Bomba Estéreo",258298.0,False,False,2022-05-06,4q3ewBCX7sLwd24euuV69X,3k3NWokhRRkEPhCzPmV8TW,258
+76,"Campanas en la Noche
+Los Tipitos",67,101.0,17,484364,Campanas en la Noche,Los Tipitos,237546.0,False,False,2004-08-01,1SykQGBiBwkQ1fcGpJ1BJt,0C9V5jMElp7laZZdsCHufD,238
+77,"Amanece
+Anuel AA, Haze",10,87.0,107,483257,Amanece,"Anuel AA, Haze",190004.0,False,False,2018-12-14,2R21vXR83lH98kGeO99Y66,1LiN0Z98FkR1t0m8KmLcAH,190
+78,"Yo sé
+Yan Block, TORRRES",11,102.0,60,480110,Yo sé,"Yan Block, TORRRES",129705.0,True,False,2024-05-23,6TKygPpVT29oGUogu4J9Ec,5DdLSEyKh8zgCrJq2hFj92,130
+79,"La Noche Sin Tí
+Los Huayra",55,55.0,10,478258,La Noche Sin Tí,Los Huayra,258906.0,False,False,2013-07-11,796YUyTCTkXZAZg4CLUoWl,3JoTBEzViPEDwM04T5aZ8j,259
+80,"amor de veraNO
+La T y La M",5,72.0,41,478056,amor de veraNO,La T y La M,198469.0,False,False,2025-03-07,1FxPMQ9A0882eNDx3ZkD6B,6WJ2QzbVnjmPGKpmb6tmmO,198
+81,"No Se Ve / Chingon
+DesaKTa2",57,62.0,9,476361,No Se Ve / Chingon,DesaKTa2,172054.0,False,False,2025-12-31,3UdkBrbQWdMoMPI4XATTC0,1wDZFWLswOdkP3PBOWiSwI,172
+82,"Nunca Lo Olvides
+Airbag",35,100.0,55,474255,Nunca Lo Olvides,Airbag,299810.0,False,False,2023-12-07,1wKDGglKV4FsFS85r2Dmpr,1qAMb1y3o7Olwm8pYTuzyV,300
+83,"Me Gusta
+Ciro y los Persas",60,85.0,153,473532,Me Gusta,Ciro y los Persas,289654.0,False,False,2012-11-19,2Eo4Yaukt9d6dnZrY5hQKi,67Q93kXygxCskeQiIP0V0j,290
+84,"Borro Cassette
+Maluma",16,92.0,55,469558,Borro Cassette,Maluma,207296.0,False,False,2015-10-30,1r4hJ1h58CWwUQe3MxPuau,6DUdDIRgLqCGq1DwkNWQTN,207
+85,"Si No Es Muy Tarde - Versión Cumbia
+Luciano Pereyra, Ezequiel Y La Clave, Un Poco de Ruido, Pinky SD",14,73.0,46,467305,Si No Es Muy Tarde - Versión Cumbia,"Luciano Pereyra, Ezequiel Y La Clave, Un Poco de Ruido, Pinky SD",196559.0,False,False,2025-04-04,6ZZ2DeepA3GpoGU4KwqSlU,4KRlNVLHn2ZgGvpjnga31N,197
+86,"El Doctorado
+La T y La M",26,77.0,75,461318,El Doctorado,La T y La M,133829.0,False,False,2023-09-07,1FxPMQ9A0882eNDx3ZkD6B,1yg1tWFaYajN4b7vsKtYRE,134
+87,"La player (Bandolera)
+Zion & Lennox",12,76.0,23,459555,La player (Bandolera),Zion & Lennox,249608.0,False,False,2018-02-23,21451j1KhjAiaYKflxBjr1,0VKkyBKCXyR99navhVRqcP,250
+88,"Si Antes Te Hubiera Conocido
+KAROL G",1,82.0,88,459466,Si Antes Te Hubiera Conocido,KAROL G,195824.0,False,False,2025-06-20,790FomKkXshlbRYZFtlgla,73scB4Q4fcOmnsBVZPmk32,196
+89,"Dardos
+Romeo Santos, Prince Royce",78,111.0,7,458294,Dardos,"Romeo Santos, Prince Royce",243070.0,False,False,2025-11-28,5lwmRuXgjX8xIwlnauTZIP,5SudOD9R1Of6CsJVWZy6CQ,243
+90,"Sola (Remix)
+Anuel AA, Daddy Yankee, Zion & Lennox, Farruko, Wisin",12,118.0,44,455809,Sola (Remix),"Anuel AA, Daddy Yankee, Zion & Lennox, Farruko, Wisin",307910.0,False,False,2016-12-01,2R21vXR83lH98kGeO99Y66,5q2JbCNi4FcnglgPfxcV65,308
+91,"Un Osito de Peluche de Taiwán
+Los Auténticos Decadentes",44,105.0,41,453336,Un Osito de Peluche de Taiwán,Los Auténticos Decadentes,247453.0,False,False,2003-01-01,3HrbmsYpKjWH1lzhad7alj,6iCnJkKswtMYoSmT58HmEn,247
+92,"Irresponsables
+Babasonicos",30,69.0,26,452315,Irresponsables,Babasonicos,156197.0,False,False,2003-10-19,2F9pvj94b52wGKs0OqiNi2,0dsViRiDTIuexAL42Nc1Kh,156
+93,"Cicatrices
+Airbag",41,94.0,95,448614,Cicatrices,Airbag,228541.0,False,False,2016-09-16,1wKDGglKV4FsFS85r2Dmpr,23FJGRug9hlYUIBnrmkIBX,229
+94,"Rara Vez
+Milo j, Taiu",3,104.0,25,446674,Rara Vez,"Milo j, Taiu",128677.0,False,False,2023-02-08,19HM5j0ULGSmEoRcrSe5x3,7MVIfkyzuUmQ716j8U7yGR,129
+95,"COQUETA
+Fuerza Regida, Grupo Frontera",12,74.0,7,444750,COQUETA,"Fuerza Regida, Grupo Frontera",241648.0,False,False,2024-12-19,0ys2OFYzWYB5hRDLCsBqxt,1PREzVLuDT6PSE9sej4wnV,242
+96,"Obsesionario en La Mayor
+Tan Bionica",24,140.0,60,439970,Obsesionario en La Mayor,Tan Bionica,266840.0,False,False,2010-01-01,37MCoi4pcUf9EKsPXeuCqU,5EGVGkRRJ2udpRnVGpx8LM,267
+97,"Bastardo (feat. Ñengo Flow & Jere Klein)
+Pablo Chill-E, Ñengo Flow, Jere Klein",97,141.0,8,439835,Bastardo (feat. Ñengo Flow & Jere Klein),"Pablo Chill-E, Ñengo Flow, Jere Klein",264996.0,True,False,2024-03-29,2XcZshqzPKm3iZcmt73R8D,7xjFEvchFCiAmuseCBModI,265
+98,"La Morocha
+Luck Ra, BM",1,78.0,138,437019,La Morocha,"Luck Ra, BM",134144.0,False,False,2024-02-02,4kcQWQDK0u9AftVSpdrAgk,6vRQqxOhUFd78p5tL8jXr7,134
+99,"Khé?
+Rauw Alejandro, Romeo Santos",19,113.0,67,436095,Khé?,"Rauw Alejandro, Romeo Santos",206066.0,False,False,2024-11-15,1mcTU81TzQhprhouKaTkpq,1YYfyJ2yCvGFCxwjsIqEK9,206
+100,"Un Poco de Amor Francés
+Patricio Rey y sus Redonditos de Ricota",82,116.0,134,435576,Un Poco de Amor Francés,Patricio Rey y sus Redonditos de Ricota,206200.0,False,False,1991-09-27,6byQKddO1b34lXC2ZEjehQ,14rcLGX83RpsORAIzC4U4g,206
+101,"Don’t Say You Love Me
+Jin",17,90.0,41,434016,Don’t Say You Love Me,Jin,180716.0,False,False,2025-05-16,5vV3bFXnN6D6N3Nj4xRvaV,27xkOIER6uDLKALIelHylZ,181
+102,"Túnel de la Vida
+El Plan De La Mariposa",72,119.0,13,433993,Túnel de la Vida,El Plan De La Mariposa,240218.0,False,False,2020-10-30,3LY3yBRRL9yxCZxaxkdUir,3NlHH9zJ9uGXkm6NJDbLnO,240
+103,"Tu Misterioso Alguien
+Miranda!",1,109.0,33,431176,Tu Misterioso Alguien,Miranda!,244800.0,True,False,2016-09-23,2eEmsgWmUFMbtU7agJpnjY,4ksf1UdqNc9pU8R4ZZrgdY,245
+104,"Trátame Suavemente - Remasterizado 2007
+Soda Stereo",56,137.0,22,430318,Trátame Suavemente - Remasterizado 2007,Soda Stereo,200800.0,False,False,1984-02-06,7An4yvF7hDYDolN4m5zKBp,65DBZofI0b79kfHTcWWDuU,201
+105,"No Podrás - En Vivo
+Eugenia Quevedo, Angela Leiva, La banda de Carlitos",44,88.0,39,430034,No Podrás - En Vivo,"Eugenia Quevedo, Angela Leiva, La banda de Carlitos",272733.0,False,False,2024-12-27,13t1RROs40VnX8PtMUnBqc,3X8jKI7kHrbhqgLboG14tw,273
+106,"Loco (Tu Forma De Ser)
+Los Auténticos Decadentes",75,96.0,23,427469,Loco (Tu Forma De Ser),Los Auténticos Decadentes,313000.0,False,False,1989-06-27,3HrbmsYpKjWH1lzhad7alj,3ydweVPwq9PCEVJ8WwqT6u,313
+107,"Ese Maldito Momento
+No Te Va Gustar",28,114.0,178,427415,Ese Maldito Momento,No Te Va Gustar,185866.0,False,False,2012-10-18,4ZDoy7AWNgQVmX7T0u0B1j,6MuJUSYCqA4FpMogUHzb2R,186
+108,"Suena en la Previa, Vol. 2
+Cumbia rocha",45,115.0,20,426080,"Suena en la Previa, Vol. 2",Cumbia rocha,252071.0,True,False,2025-10-01,5Szju6DGR9hcbFOJeXCN0x,0LswOwsXAfPYLGVwqRlNyW,252
+109,"POR SI MAÑANA NO ESTOY
+Omar Courtz",109,,1,424127,POR SI MAÑANA NO ESTOY,Omar Courtz,264946.0,True,False,2026-02-19,3E12tRURRvPfHz0hAMCFYc,595wwjQiad6e6lSTScmXvz,265
+110,"LUNA
+Feid, ATL Jacob",5,108.0,116,423158,LUNA,"Feid, ATL Jacob",196800.0,False,False,2023-12-01,2LRoIwlKmHjgvigdNGBHNo,7bywjHOc0wSjGGbj04XbVi,197
+111,"Quédate / Soy Favela / Lo que hay x aqui - En Vivo
+Q' Lokura",94,103.0,10,423081,Quédate / Soy Favela / Lo que hay x aqui - En Vivo,Q' Lokura,362016.0,False,False,2025-12-09,7dlkBH23ERFXxuNoMHq94Y,3sfrXcrMPS2KMQmzdmjEmp,362
+112,"Estaba Aqui Pensando
+DesaKTa2, Aneley",81,91.0,15,422606,Estaba Aqui Pensando,"DesaKTa2, Aneley",179200.0,False,False,2025-02-20,3UdkBrbQWdMoMPI4XATTC0,5GUgnXDDO4raKkT9lO5F1x,179
+113,"Tú No Lo Amas
+Anuel AA",81,124.0,17,419964,Tú No Lo Amas,Anuel AA,214125.0,True,False,2018-07-17,2R21vXR83lH98kGeO99Y66,0fLOPPoyIaPTe8dm2Mrft3,214
+114,"UWAIE
+Kapo",15,132.0,9,419916,UWAIE,Kapo,172426.0,False,False,2025-07-03,3UTF2no3muGdiFXVujl94i,0fMjldiEpgjbWQ4bBQwVzH,172
+115,"Un Montón de Estrellas - En Vivo Gran Rex
+La T y La M",13,131.0,17,415174,Un Montón de Estrellas - En Vivo Gran Rex,La T y La M,165326.0,False,False,2023-06-08,1FxPMQ9A0882eNDx3ZkD6B,1R3ubqAHKHE6f64Hz37q8h,165
+116,"Every Breath You Take
+The Police",60,112.0,20,410826,Every Breath You Take,The Police,253920.0,False,False,1983-06-17,5NGO30tJxFlKixkPSgXcFE,1JSTJqkT5qHq8MDJnJbRE1,254
+117,"Esa Estrella Era Mi Lujo
+Patricio Rey y sus Redonditos de Ricota",79,168.0,8,409391,Esa Estrella Era Mi Lujo,Patricio Rey y sus Redonditos de Ricota,176173.0,False,False,1989-07-04,6byQKddO1b34lXC2ZEjehQ,1buwr89mlvxbaqArqmvCYS,176
+118,"Loca
+KHEA, Duki, Cazzu, Omar Varela, MYKKA",6,163.0,2,406888,Loca,"KHEA, Duki, Cazzu, Omar Varela, MYKKA",246382.0,True,False,2017-11-22,4m6ubhNsdwF4psNf3R8kwR,0vnrhysrKKRdNYFKLAGzRc,246
+119,"TURiSTA
+Bad Bunny",38,45.0,3,406709,TURiSTA,Bad Bunny,190028.0,False,False,2025-01-05,4q3ewBCX7sLwd24euuV69X,7tCuCjhxzjX2XCz4JiiAsp,190
+120,"Kyoto
+Omar Courtz, De La Rose, Haze",33,,1,406520,Kyoto,"Omar Courtz, De La Rose, Haze",247840.0,True,False,2023-07-14,3E12tRURRvPfHz0hAMCFYc,7eNwwoxDR8KVzNAuGvliAO,248
+121,"Cae el Sol
+Airbag",56,125.0,63,406334,Cae el Sol,Airbag,281386.0,False,False,2011-05-01,1wKDGglKV4FsFS85r2Dmpr,1Mqfdem6pgGVoULjSkkcc9,281
+122,"Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)
+Maluma, Trap Capos, Noriel, Bryant Myers, Juhn",17,145.0,8,405171,"Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)","Maluma, Trap Capos, Noriel, Bryant Myers, Juhn",278013.0,True,False,2016-10-07,1r4hJ1h58CWwUQe3MxPuau,0JoHqmlqE0W0i9prt6kcHR,278
+123,"Imitadora
+Romeo Santos",40,121.0,6,404159,Imitadora,Romeo Santos,234828.0,False,False,2017-07-21,5lwmRuXgjX8xIwlnauTZIP,6r46lnXFbE9fr2d3KNaGbe,235
+124,"Personalmente
+Las Pelotas",93,150.0,15,403076,Personalmente,Las Pelotas,250357.0,False,False,2010-11-09,1Qv4E1VgZOGnOYd99Kp5Bs,7q7XFO9av9VpNJSXKJwJxD,250
+125,"Será
+Las Pelotas",115,151.0,12,402868,Será,Las Pelotas,181826.0,False,False,2003-07-01,1Qv4E1VgZOGnOYd99Kp5Bs,60IzIxSuVAtU71yCmHjxHH,182
+126,"RAMEN PARA DOS
+Maria Becerra, Paulo Londra, XROSS",1,188.0,42,402841,RAMEN PARA DOS,"Maria Becerra, Paulo Londra, XROSS",231999.0,True,False,2025-11-20,1DxLCyH42yaHKGK3cl5bvG,5KJacLbQNuqzR9IizaPI6h,232
+127,"blackout 🧊
+Emilia, TINI, Nicki Nicole",1,146.0,49,400949,blackout 🧊,"Emilia, TINI, Nicki Nicole",182282.0,False,False,2025-03-25,0AqlFI0tz2DsEoJlKSIiT9,2efbgTtEGNpsUZaOfgRTR6,182
+128,"MOJABI GHOST
+Tainy, Bad Bunny",71,83.0,3,400681,MOJABI GHOST,"Tainy, Bad Bunny",232131.0,True,False,2023-06-29,0GM7qgcRCORpGnfcN2tCiB,46YjJXVXWHlQ21odKktg5e,232
+129,"El Efecto
+Rauw Alejandro, Chencho Corleone",30,157.0,38,400450,El Efecto,"Rauw Alejandro, Chencho Corleone",217142.0,False,False,2019-03-15,1mcTU81TzQhprhouKaTkpq,4SJHHpKhcuXwDsCsPqshXj,217
+130,"Flaca
+Andrés Calamaro",61,136.0,183,399493,Flaca,Andrés Calamaro,277653.0,False,False,1997,3tAICgiSR5PfYY4B8qsoAU,1p7m9H4H8s0Y7SgRm7j3ED,278
+131,"Ella Dijo
+Estelares, Jorge Serrano",56,128.0,27,398668,Ella Dijo,"Estelares, Jorge Serrano",284531.0,False,False,2006-10-17,6Nm62oNQCdPxVoiQtFSksF,6cFf4Jfy7ThUwGzbqFcZsx,285
+132,"Puesto
+Babasonicos",37,127.0,54,397890,Puesto,Babasonicos,206106.0,False,False,2005-01-01,2F9pvj94b52wGKs0OqiNi2,5zpZUFF7YyPG90nkR88RYd,206
+133,"Resentia
+Pablo Chill-E",11,171.0,58,396963,Resentia,Pablo Chill-E,200526.0,True,False,2024-03-29,2XcZshqzPKm3iZcmt73R8D,2ANtIUI9cipWNI685VdlZb,201
+134,"FAVORITA
+Angela Torres",23,130.0,24,396908,FAVORITA,Angela Torres,173453.0,False,False,2025-07-23,6LZA6PhNCwUfHzqfpN1nYL,6EhX9FjpQZ5CohoGeqUM2u,173
+135,"Es Mi Culpa - Versión Cumbia
+Luciano Pereyra, The La Planta, Un Poco de Ruido, Pinky SD",36,129.0,11,393729,Es Mi Culpa - Versión Cumbia,"Luciano Pereyra, The La Planta, Un Poco de Ruido, Pinky SD",158441.0,False,False,2025-12-05,6ZZ2DeepA3GpoGU4KwqSlU,78OOLg1XsVW0QQkfHP2VEV,158
+136,"⁠LUCES DE COLORES
+Omar Courtz",99,,1,392540,⁠LUCES DE COLORES,Omar Courtz,216506.0,False,False,2024-09-20,3E12tRURRvPfHz0hAMCFYc,5dDlknAL9imbXXl7uG7oqe,217
+137,"No Te Hagas
+Jory Boy, Bad Bunny",54,156.0,2,390269,No Te Hagas,"Jory Boy, Bad Bunny",233250.0,False,False,2017-03-11,5lFhCi03HDneWzvCxGctrT,5hKjEpYrJIJs6uPl7zw6Y6,233
+138,"No Puedo Fingirlo
+Ulises Bueno, DesaKTa2",91,139.0,15,389361,No Puedo Fingirlo,"Ulises Bueno, DesaKTa2",219093.0,False,False,2024-12-30,2UqRkW2wfEkZmyvKyTTv2W,06WyITrA2pZJT5Nt79AOrb,219
+139,"El Loco
+Babasonicos",60,159.0,30,387658,El Loco,Babasonicos,185826.0,False,False,2001-07-25,2F9pvj94b52wGKs0OqiNi2,2jEjxOyKqMpkcThWl697hf,186
+140,"444 - Remix
+Yan Block, De La Rose, Hades66, Ñengo Flow",48,200.0,7,384998,444 - Remix,"Yan Block, De La Rose, Hades66, Ñengo Flow",299325.0,True,False,2025-10-30,6TKygPpVT29oGUogu4J9Ec,5AK6QqM8aUXXTk6oY00ZRh,299
+141,"Conmigo Te Gustó
+Pinky SD, Un Poco de Ruido, Uriel Lozano",13,117.0,80,382639,Conmigo Te Gustó,"Pinky SD, Un Poco de Ruido, Uriel Lozano",72937.0,False,False,2024-07-28,7yIp2QRLkQ6loIrupimiri,4eqXTlaHeK6xkM1fRx9wR5,73
+142,"SI ESTÁS CON ALGUIEN
+Omar Courtz",142,,1,380064,SI ESTÁS CON ALGUIEN,Omar Courtz,251360.0,True,False,2026-02-19,3E12tRURRvPfHz0hAMCFYc,7nyk5uxevcijIfl1FlJgmA,251
+143,"M.A.I
+Milo j",11,142.0,20,378782,M.A.I,Milo j,184027.0,False,False,2023-11-30,19HM5j0ULGSmEoRcrSe5x3,35ttE4t8lQZA2vuCYDg4G7,184
+144,"La Diabla
+DesaKTa2",124,161.0,10,376531,La Diabla,DesaKTa2,151993.0,False,False,2024-12-24,3UdkBrbQWdMoMPI4XATTC0,6PaIQ2qR59qiqXgjeTFwJA,152
+145,"De las 2 (feat. Bad Bunny & Arcángel)
+Trap Capos, Noriel, Bad Bunny, Arcángel",105,183.0,4,375940,De las 2 (feat. Bad Bunny & Arcángel),"Trap Capos, Noriel, Bad Bunny, Arcángel",260386.0,True,False,2018-04-13,2pQAUIesBqfT87PaM1ijtk,4DS7HoqrKq1dDjeYOKBlu9,260
+146,"TIKI TIKI
+Callejero Fino, Martin Vegas",81,138.0,8,375275,TIKI TIKI,"Callejero Fino, Martin Vegas",139068.0,False,False,2025-12-22,6GRwwWAtmusrgAL5JF9Dfr,7GSKEUunbDOtPSG1TLXq8e,139
+147,"Enséñame a Bailar
+Bad Bunny",49,107.0,4,374903,Enséñame a Bailar,Bad Bunny,176000.0,False,False,2022-05-06,4q3ewBCX7sLwd24euuV69X,2NMjggapJcXXM7WccGEBUO,176
+148,"Safaera
+Bad Bunny, Jowell & Randy, Ñengo Flow",1,68.0,3,374622,Safaera,"Bad Bunny, Jowell & Randy, Ñengo Flow",295176.0,True,False,2020-02-29,4q3ewBCX7sLwd24euuV69X,2DEZmgHKAvm41k4J3R2E9Y,295
+149,"¿Qué Nos Pasó?
+Anuel AA",126,164.0,8,372020,¿Qué Nos Pasó?,Anuel AA,245738.0,True,False,2022-05-26,2R21vXR83lH98kGeO99Y66,7k3qWn8D43a5ISa3x8lJux,246
+150,"PERFuMITO NUEVO
+Bad Bunny, RaiNao",20,65.0,3,371489,PERFuMITO NUEVO,"Bad Bunny, RaiNao",200680.0,True,False,2025-01-05,4q3ewBCX7sLwd24euuV69X,1Q9Efnm5csdCMFynISxL2x,201
+151,"Hecha Pa' Mi
+Boza",5,147.0,9,371070,Hecha Pa' Mi,Boza,186133.0,False,False,2020-07-31,2NfSBtmWe7oPw1EmetJVso,3VvA1wSxukMLsvXoXtlwWx,186
+152,"Aquellos Tiempos
+La T y La M, Sael",86,189.0,10,370476,Aquellos Tiempos,"La T y La M, Sael",133711.0,False,False,2023-10-19,1FxPMQ9A0882eNDx3ZkD6B,4HuCvSUsveC5jCbYE5qllc,134
+153,"QUE PRETENDES
+J Balvin, Bad Bunny",19,148.0,3,368718,QUE PRETENDES,"J Balvin, Bad Bunny",222346.0,False,False,2019-06-28,1vyhD5VmyZ7KMfW5gqLgo5,25ZAibhr3bdlMCLmubZDVt,222
+154,"QUE ME FALTE TODO
+Luck Ra, Abel Pintos",3,143.0,122,368013,QUE ME FALTE TODO,"Luck Ra, Abel Pintos",165918.0,False,False,2024-02-02,4kcQWQDK0u9AftVSpdrAgk,1TyBUtMxdmRfXhW3MmbxtQ,166
+155,"Si Estuviésemos Juntos
+Bad Bunny",60,123.0,2,367602,Si Estuviésemos Juntos,Bad Bunny,169247.0,True,False,2018-12-23,4q3ewBCX7sLwd24euuV69X,35wvL50xvKpCHEJPxLOLPI,169
+156,"PUTERÍ4
+DobleP, Peipper, Locura Mix, VERNAZ",37,152.0,16,366329,PUTERÍ4,"DobleP, Peipper, Locura Mix, VERNAZ",144468.0,False,False,2025-10-30,2eXWodjj5K1vVq2CSjl036,1IgrATr9zMmRjtFVFY6O7s,144
+157,"Q U E V A S H A C E R H O Y ?
+Omar Courtz, De La Rose",1,,1,365323,Q U E V A S H A C E R H O Y ?,"Omar Courtz, De La Rose",224022.0,True,False,2024-09-20,3E12tRURRvPfHz0hAMCFYc,0Sr7ssScx54yxdM2ols7nW,224
+158,"No Me Conoce - Remix
+JHAYCO, J Balvin, Bad Bunny",5,126.0,3,364275,No Me Conoce - Remix,"JHAYCO, J Balvin, Bad Bunny",309120.0,False,False,2019-05-24,6nVcHLIgY5pE2YCl8ubca1,2beS6dD5rovBxSA1zYoSHR,309
+159,"No Vayas a Llorar I Varieté #5
+Tincho Di Salvo & Javi Zurro, Valentina Olguin, Bauti Mascia",87,133.0,7,361325,No Vayas a Llorar I Varieté #5,"Tincho Di Salvo & Javi Zurro, Valentina Olguin, Bauti Mascia",145714.0,False,False,2025-12-23,0mDd8pZbNfiDNBrL1qybaK,4zFRyL1GIKf17Fhp35AOUJ,146
+160,"Fanática Sensual
+Plan B",122,,1,359178,Fanática Sensual,Plan B,240320.0,False,False,2014-09-09,2jSGzJw0ebJLu7OLVSOcBP,1FWD08y0cTKR31BNn8awLt,240
+161,"Manchild
+Sabrina Carpenter",57,,1,357989,Manchild,Sabrina Carpenter,213645.0,True,False,2025-08-29,74KM79TiuVKeVCqs8QtB0B,2BwO5K8Q7EPAJSGze3AAh9,214
+162,"LA MuDANZA
+Bad Bunny",47,47.0,3,357479,LA MuDANZA,Bad Bunny,213010.0,True,False,2025-01-05,4q3ewBCX7sLwd24euuV69X,3G7agPwWfcORnWCAGMDOpm,213
+163,"Tiroteo - Remix
+Marc Seguí, Rauw Alejandro, Pol Granch",26,162.0,21,356554,Tiroteo - Remix,"Marc Seguí, Rauw Alejandro, Pol Granch",321555.0,False,False,2021-04-01,5FQ8tBUtIamA2hRtatrYUF,4OwhwvKESFtuu06dTgct7i,322
+164,"FAR AWAY
+PEPU, Nico Valdi, Pizzu",43,86.0,6,356133,FAR AWAY,"PEPU, Nico Valdi, Pizzu",161620.0,False,False,2026-01-16,2uHt84x3H1VLR7xFBAuNS8,22nEfJtQdNlGI0dW6QVm6q,162
+165,"Encantadora
+Yandel",148,165.0,6,355444,Encantadora,Yandel,240092.0,False,False,2015-11-06,0eHQ9o50hj6ZDNBt6Ys1sD,7LABrQFfRYcZUqUwng0Heb,240
+166,"Vencedores Vencidos
+Patricio Rey y sus Redonditos de Ricota",142,187.0,2,355278,Vencedores Vencidos,Patricio Rey y sus Redonditos de Ricota,208400.0,False,False,1988-09-05,6byQKddO1b34lXC2ZEjehQ,1nYD14iq9R9CBUK8UvBjkK,208
+167,"Yo te conozco :):
+De La Rose",167,,1,352460,Yo te conozco :):,De La Rose,118666.0,True,False,2025-11-13,54seKvtsZauR1iauN0ptpo,1yG1za0O6OK6sKa79xGtsA,119
+168,"EL MUNDO SE VA A ACABAR
+Omar Courtz, KARBeats",168,,1,350834,EL MUNDO SE VA A ACABAR,"Omar Courtz, KARBeats",213960.0,True,False,2026-02-19,3E12tRURRvPfHz0hAMCFYc,6SkbzQSYMJzrmmDBEvbh0S,214
+169,"Pobre Corazón - En Vivo
+Ke Personajes, Onda Sabanera",2,144.0,65,350570,Pobre Corazón - En Vivo,"Ke Personajes, Onda Sabanera",198930.0,False,False,2023-03-02,06Q5VlSAku57lFzyME3HrM,1AX4aybSRyXHWrjg27wTFE,199
+170,"Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)
+Arcángel, Bad Bunny, Mambo Kingz, DJ Luian",87,,1,350385,Tu No Vive Asi (feat. Mambo Kingz & DJ Luian),"Arcángel, Bad Bunny, Mambo Kingz, DJ Luian",264000.0,True,False,2016-09-30,4SsVbpTthjScTS7U2hmr1X,6NSMQFKgjpQb0KkjMDYIK0,264
+171,"Tan Solo
+Los Piojos",53,180.0,9,350148,Tan Solo,Los Piojos,240013.0,False,False,1992-01-01,0SnyKkoyBaB2fG8IJH4xmU,6Soxxi73U6SO4rOGJwYYxI,240
+172,"Fuego
+Intoxicados, Andrés Calamaro",86,199.0,12,347912,Fuego,"Intoxicados, Andrés Calamaro",261545.0,False,False,2005,4VgvR7eu3k2T20mo6mXhXF,6q41qt2R9K8BXEzmzImEGO,262
+173,"PIERDO LA CABEZA
+Maria Becerra, TAICHU, XROSS",54,,1,347625,PIERDO LA CABEZA,"Maria Becerra, TAICHU, XROSS",148258.0,False,False,2025-11-20,1DxLCyH42yaHKGK3cl5bvG,2VF15mP66N1ejIsQVpvDvn,148
+174,"Si Tu Novio Te Deja Sola
+J Balvin, Bad Bunny",26,,1,346952,Si Tu Novio Te Deja Sola,"J Balvin, Bad Bunny",243560.0,True,False,2017-03-03,1vyhD5VmyZ7KMfW5gqLgo5,2joKSGkqac0LIwYG9Ghrwq,244
+175,"MOTINHA 2.0 (Mete Marcha) - Remix
+DENNIS, Luísa Sonza, Emilia",3,177.0,44,346424,MOTINHA 2.0 (Mete Marcha) - Remix,"DENNIS, Luísa Sonza, Emilia",118081.0,False,False,2025-04-24,6xlRSRMLgZbsSNd0BMobwy,2iDDnYmaz1HhedjI91fbmp,118
+176,"Esclava - Remix
+Bryant Myers, Anuel AA, Anonimus, Almighty",170,,1,346417,Esclava - Remix,"Bryant Myers, Anuel AA, Anonimus, Almighty",281545.0,False,False,2016-05-01,6w9ToX5slZ4uIdmD17hJ3c,2Mgur7BKnpr7OG3izSNFTA,282
+177,"De Música Ligera
+Soda Stereo",100,191.0,4,346376,De Música Ligera,Soda Stereo,212893.0,False,False,1983,7An4yvF7hDYDolN4m5zKBp,2WD9ggmpZE7Wodh3qVVCgg,213
+178,"Perdonarte ¿Para Qué?
+Los Ángeles Azules, Emilia",1,174.0,92,346272,Perdonarte ¿Para Qué?,"Los Ángeles Azules, Emilia",193933.0,False,False,2024-05-23,0ZCO8oVkMj897cKgFH7fRW,5djlc1fMHiFsSpsQQtopLy,194
+179,"Tus Cosas (feat. Airbag)
+Tan Bionica, Airbag",10,,1,343742,Tus Cosas (feat. Airbag),"Tan Bionica, Airbag",187693.0,False,False,2025-11-04,37MCoi4pcUf9EKsPXeuCqU,30vXLQ9yPEKdTNGHYik0iR,188
+180,"FERXXO 151
+Feid, ICON",142,160.0,9,341326,FERXXO 151,"Feid, ICON",195386.0,False,False,2023-09-29,2LRoIwlKmHjgvigdNGBHNo,2Cl4HCBmPddQNZEncdoXp0,195
+181,"Die With A Smile
+Lady Gaga, Bruno Mars",20,179.0,4,341112,Die With A Smile,"Lady Gaga, Bruno Mars",251667.0,False,False,2024-08-16,1HY2Jd0NmPuamShAr6KMms,2plbrEY59IikOBgBGLjaoe,252
+182,"Callaita
+Bad Bunny, Tainy",2,99.0,3,341025,Callaita,"Bad Bunny, Tainy",250533.0,True,False,2022-05-06,4q3ewBCX7sLwd24euuV69X,71wFwRo8xGc4lrcyKwsvba,251
+183,"La Bestia Pop
+Patricio Rey y sus Redonditos de Ricota",151,182.0,12,340434,La Bestia Pop,Patricio Rey y sus Redonditos de Ricota,247066.0,False,False,1985-04-22,6byQKddO1b34lXC2ZEjehQ,6BHlafXY1L2eetDCwict05,247
+184,"quédate
+Beéle",108,185.0,19,339089,quédate,Beéle,176481.0,False,False,2025-05-15,7a0XAaPaK2aDSqa8p3QnC7,6VfL3MEuYeJbDlD8m011HR,176
+185,"Te quiero igual
+Andrés Calamaro",66,,1,338265,Te quiero igual,Andrés Calamaro,235560.0,False,False,1999,3tAICgiSR5PfYY4B8qsoAU,7qIw4D1PcDHigDohKkLB0W,236
+186,"WHAT U NEED? (SexPlaylist 2)
+Omar Courtz, Myke Towers",186,,1,336813,WHAT U NEED? (SexPlaylist 2),"Omar Courtz, Myke Towers",265833.0,True,False,2026-02-19,3E12tRURRvPfHz0hAMCFYc,7jnSlMG2jKJmKvAWxufk2I,266
+187,"TE CANTO BAJITO
+Blessd, Anuel AA, SOG",187,,1,335503,TE CANTO BAJITO,"Blessd, Anuel AA, SOG",178775.0,True,False,2025-03-18,1TA5sGRlKUJXBN4ZyJuDIX,3I1jcOmPwnzUR5yduDK3yb,179
+188,"Ya No Vuelvas (Versión Cuarteto)
+Luck Ra, La K'onga, Ke Personajes",1,167.0,169,334078,Ya No Vuelvas (Versión Cuarteto),"Luck Ra, La K'onga, Ke Personajes",204000.0,False,False,2024-02-02,4kcQWQDK0u9AftVSpdrAgk,0u6JsFiEEXb6kaF0oqyeFi,204
+189,"BOKeTE
+Bad Bunny",39,93.0,3,333919,BOKeTE,Bad Bunny,215983.0,True,False,2025-01-05,4q3ewBCX7sLwd24euuV69X,79x7xtoCLpf6l32Zz6mWo4,216
+190,"Arde la Ciudad
+Mancha De Rolando",133,,1,333620,Arde la Ciudad,Mancha De Rolando,252760.0,False,False,2004-03-01,4DuhYdfd2jHMdaqYVYZp04,3SyKG06yOK3omo29EwZ8dP,253
+191,"Tattoo - Remix
+Flor Alvarez, Luck Ra, Q' Lokura",89,166.0,11,333368,Tattoo - Remix,"Flor Alvarez, Luck Ra, Q' Lokura",158684.0,False,False,2025-05-01,3R8XhCi6bUcoR1CJx2XASa,56yAIzNg5SAbUKUKR9UXmf,159
+192,"VIAJEMOS EN EL TIEMPO #1 | Quien Te Quiere Como Yo
+Max Carra, Lira",42,172.0,10,331279,VIAJEMOS EN EL TIEMPO #1 | Quien Te Quiere Como Yo,"Max Carra, Lira",173647.0,False,False,2025-06-12,483P9cJ9pdCoc08XvNunPL,6il9B9hrZPNpXei57XM1Sv,174
+193,"Crimen
+Gustavo Cerati",34,,1,330505,Crimen,Gustavo Cerati,232026.0,False,False,2006-04-04,1QOmebWGB6FdFtW7Bo3F0W,3oqWr0jDWNXxWufNogGREp,232
+194,"El Perdedor
+Maluma",62,,1,330144,El Perdedor,Maluma,207168.0,False,False,2015-10-30,1r4hJ1h58CWwUQe3MxPuau,1iEwyiSLAunPR6uouANE0O,207
+195,"Madura
+Cosculluela, Bad Bunny",6,,1,330040,Madura,"Cosculluela, Bad Bunny",190995.0,False,False,2018-04-13,00me4Ke1LsvMxt5kydlMyU,5n2XTRsYFlZwNBp06KAjDX,191
+196,"El Fantasma
+Árbol",47,,1,328994,El Fantasma,Árbol,237800.0,False,False,2005-01-01,6OO01j5rLKCyPg4i3FuzIT,0N361WhEqVunVl5ZBkfd70,238
+197,"EL CLúB
+Bad Bunny",17,98.0,3,328200,EL CLúB,Bad Bunny,222568.0,True,False,2025-01-05,4q3ewBCX7sLwd24euuV69X,0iKo4pNNjHHdKUcFARlfCa,223
+198,"Candy
+Plan B",153,,1,327427,Candy,Plan B,207626.0,False,False,2014-09-09,2jSGzJw0ebJLu7OLVSOcBP,5MYPciceOHMd7Vl7ntELEq,208
+199,"Seguir Viviendo Sin Tu Amor
+Luis Alberto Spinetta",58,194.0,2,327426,Seguir Viviendo Sin Tu Amor,Luis Alberto Spinetta,160866.0,False,False,1991-01-01,1MuQ2m2tg7naeRGAOxYZer,2qBirMakpTdz9ymxrZEyzg,161
+200,"Te invito a bailar
+Callejero Fino, La T y La M",78,184.0,7,327237,Te invito a bailar,"Callejero Fino, La T y La M",145191.0,False,False,2025-03-27,6GRwwWAtmusrgAL5JF9Dfr,17vFIehhv8hKSXYn5Ce4Pk,145

@@ -1,0 +1,401 @@
+﻿rank,track_artist,peak,prev,streak,streams,track_name,artist_name,duration_ms,explicit,is_local,release_date,artist_id,track_id,duration_sec
+1,"Who
+Jimin",1,2.0,84,111156,Who,Jimin,170887,False,False,2024-07-19,1oSPZhvZMIrWW5I41kPkkY,7tI8dRuH2Yc6RuoTjxo4dU,171
+2,"Winter Ahead (with PARK HYO SHIN)
+V, Park Hyo Shin",1,1.0,65,98433,Winter Ahead (with PARK HYO SHIN),"V, Park Hyo Shin",234895,False,False,2024-11-29,3JsHnjpbhX4SnySpvpa9DK,7G7mSV4BebkoHWwKTDvXu9,235
+3,"Be Mine
+Jimin",2,3.0,84,69299,Be Mine,Jimin,207347,False,False,2024-07-19,1oSPZhvZMIrWW5I41kPkkY,3LWVXp636uLT356Rj08Jaz,207
+4,"КУПЕР
+SQWOZ BAB",4,6.0,4,58351,КУПЕР,SQWOZ BAB,105000,False,False,2025-12-26,5U2ISoieRzT6TaqiXumcXl,7fYkeBS6A7uiKh39L1POmA,105
+5,"днями и ночами
+BUSHIDO ZHO, Scally Milano, Полка",3,4.0,12,40895,днями и ночами,"BUSHIDO ZHO, Scally Milano, Полка",142325,True,False,2025-12-03,27kGBCjiz5OXojkKX4xQ6R,7u44m17Qu8xZp446SnoN05,142
+6,"NOBODY
+Aarne, Toxi$, Big Baby Tape",4,49.0,16,40397,NOBODY,"Aarne, Toxi$, Big Baby Tape",180794,True,False,2025-11-07,5B5qmrbTFvA7TAxWruuwbo,6l9rm6oaHmFO46bTtIr1ip,181
+7,"священная война
+урал гайсин",5,5.0,34,36166,священная война,урал гайсин,102258,False,False,2025-06-06,6CGetCSvhKrqmeKnsaI4Bm,51hYk2CuUoZPd003ENH5lO,102
+8,"8 миля
+madk1d, VILLIAN",8,,1,33151,8 миля,"madk1d, VILLIAN",115200,True,False,2026-02-20,1Q5COYHgA7ch0y3HqCNgwt,67llqAFIyR6d6JMjDImDyU,115
+9,"так похуй
+madk1d",2,7.0,49,33140,так похуй,madk1d,108042,True,False,2025-03-14,1Q5COYHgA7ch0y3HqCNgwt,4ADTRHgAN41fV1azvOARQ1,108
+10,"Like Crazy
+Jimin",5,11.0,56,31336,Like Crazy,Jimin,212241,False,False,2023-03-24,1oSPZhvZMIrWW5I41kPkkY,3Ua0m0YmEjrMi9XErKcNiR,212
+11,"Babydoll
+Dominic Fike",11,12.0,3,31126,Babydoll,Dominic Fike,97960,False,False,2018-10-16,6USv9qhCn6zfxlBQIYJ9qs,7yNf9YjeO5JXUE3JEBgnYc,98
+12,"ParisLove
+FORTUNA 812",2,8.0,68,30111,ParisLove,FORTUNA 812,109858,True,False,2024-11-08,4anb8rmk0xipuQP6QZ5IlH,6zECxDYlNtEybq8hZ9Tp12,110
+13,"Супермаркет
+Poshlaya Molly",7,9.0,131,29999,Супермаркет,Poshlaya Molly,214418,True,False,2017-02-24,0xByDfltDVpk6LDsUMHyI2,5UW6yvwo3nVA609NgprdhK,214
+14,"распять
+greyrock, tewiq, madk1d",7,10.0,50,28435,распять,"greyrock, tewiq, madk1d",119575,False,False,2025-03-14,3Z2TLso4pM7QrgMgkKVPZB,3pUbDaO5cBfRCZHxSCVMh8,120
+15,"speed
+dabbackwood",11,14.0,6,28120,speed,dabbackwood,85581,True,False,2026-01-12,197D0NwoUgPyjzksisOqcy,0W5znUzvfYYIwgdIaiP0Fd,86
+16,"Контракт
+Poshlaya Molly",8,13.0,211,26327,Контракт,Poshlaya Molly,204756,False,False,2021-03-12,0xByDfltDVpk6LDsUMHyI2,2bqS0QtnXGjOYs3z6VtSyW,205
+17,"ты че обиделась
+madk1d, тёмный принц",5,20.0,50,25286,ты че обиделась,"madk1d, тёмный принц",90044,True,False,2025-03-14,1Q5COYHgA7ch0y3HqCNgwt,0fXr6jak9GITvjI3tUqme0,90
+18,"Нон стоп
+Poshlaya Molly",14,16.0,211,24750,Нон стоп,Poshlaya Molly,213954,True,False,2017-02-24,0xByDfltDVpk6LDsUMHyI2,3uMUdlo47oEes3kgL4T4EC,214
+19,"Rebirth (Intro)
+Jimin",6,25.0,43,24646,Rebirth (Intro),Jimin,144624,False,False,2024-07-19,1oSPZhvZMIrWW5I41kPkkY,7gMfVc4zfNIxuMyMGglOHa,145
+20,"Ханнамонтана
+Poshlaya Molly",18,19.0,134,24588,Ханнамонтана,Poshlaya Molly,190818,True,False,2017-02-24,0xByDfltDVpk6LDsUMHyI2,7dOzvgGmCmoqGAHeoiM542,191
+21,"Юра, Юра
+CUPSIZE",21,24.0,21,23840,"Юра, Юра",CUPSIZE,128764,True,False,2023-12-22,6piaRBSk79hfoHINy7DMGO,60rhfD30Cpfj4SY5A7ft4Z,129
+22,"MARTINE ROSE
+madk1d, greyrock, tewiq",6,15.0,21,23835,MARTINE ROSE,"madk1d, greyrock, tewiq",186893,True,False,2025-10-03,1Q5COYHgA7ch0y3HqCNgwt,5AVrwT3q2nFWHDwuPILwrf,187
+23,"Все хотят меня поцеловать
+Poshlaya Molly",15,18.0,149,23786,Все хотят меня поцеловать,Poshlaya Molly,144000,True,False,2018-01-12,0xByDfltDVpk6LDsUMHyI2,0rqe1Pt1EGu0VDAqPupREU,144
+24,"Шиншиллы
+LSP",2,17.0,13,23419,Шиншиллы,LSP,149026,False,False,2025-11-28,4h8pGxEIOi7j4me1yhYxlD,7igRCIpWVfpWTbhfsfn7su,149
+25,"Жить в кайф
+Max Korzh",8,28.0,59,23062,Жить в кайф,Max Korzh,174344,False,False,2013-10-21,5meD8C7oGK5yUEY2T7ZZ7W,2m3PVx1gsVB5upxi94IW8I,174
+26,"Четыре тридцать
+Violetta Sokolova",4,22.0,136,22860,Четыре тридцать,Violetta Sokolova,133475,True,False,2022-05-13,7K2PBAFUE98RKu30clhIms,4GBfKfnvmcTcNrlJcV4OLV,133
+27,"овердоз
+тёмный принц",3,21.0,25,22359,овердоз,тёмный принц,88742,True,False,2025-09-05,3jayBSUIK2eqnLCWfJoWwV,6oQ3B198ElQsJD2YZDIRkX,89
+28,"Банкомат
+DEAD BLONDE",26,30.0,64,21800,Банкомат,DEAD BLONDE,199284,False,False,2022-11-18,4k0dbhJImJWSJf9PsH7H3z,3rGOoMEEIBonQBGOX48yjB,199
+29,"БАНК
+Icegergert, Zivert",6,26.0,19,21640,БАНК,"Icegergert, Zivert",177750,False,False,2025-10-17,4z3TiM4dsnvWDRcnqf3l0r,4pSZzeXqMWot9wgbzbuXQ0,178
+30,"ПОВОД
+MORGENSHTERN",1,31.0,34,21596,ПОВОД,MORGENSHTERN,153250,True,False,2025-02-14,0XNKQFs2Ewb3y0VsFUFc5l,1SUguUEQfQokc535Ye7ttR,153
+31,"Сайт
+Раковая Выхухоль",12,27.0,18,21580,Сайт,Раковая Выхухоль,145047,True,False,2025-09-19,7y6TkCfv1kEBd6YmloUGLK,695k3xSxwunkal37drPMkV,145
+32,"СВЕТЛАНА!
+NEXTIME",3,23.0,14,21289,СВЕТЛАНА!,NEXTIME,96000,True,False,2025-11-21,0KaA8HctO3Rt7xjMSu3YUk,6glptAOL1GSNQ1kZdWEVjj,96
+33,"Шёлк
+Ваня Дмитриенко",5,29.0,32,21172,Шёлк,Ваня Дмитриенко,146008,False,False,2025-07-18,1kxqshyCqWuOQJNCTgHKzM,3chb0SAouU1FtBPR5NPHWX,146
+34,"FRI(END)S
+V",6,33.0,8,20512,FRI(END)S,V,148082,False,False,2024-03-15,3JsHnjpbhX4SnySpvpa9DK,0PBTlQ84CBJF0tBnKGmQa6,148
+35,"ты любишь танцевать
+CUPSIZE",32,34.0,25,19853,ты любишь танцевать,CUPSIZE,145942,True,False,2023-09-29,6piaRBSk79hfoHINy7DMGO,0nukg1QtwhP7jBbmeFKoiT,146
+36,"ПАПА
+тёмный принц, tewiq, FORTUNA 812",8,32.0,42,19194,ПАПА,"тёмный принц, tewiq, FORTUNA 812",102909,True,False,2024-11-29,3jayBSUIK2eqnLCWfJoWwV,5b6awK2tOZ6thRJIkE9Pbh,103
+37,"гладиатор/рыцарь
+fallen777angel",2,40.0,79,19068,гладиатор/рыцарь,fallen777angel,104026,True,False,2024-08-23,5ByAEWetNZ95GufzBSOkc3,5cuSyLoYilFJQsI1Yta8GT,104
+38,"Вселенная бесконечна?
+Noize MC",32,37.0,60,19014,Вселенная бесконечна?,Noize MC,260560,False,False,2012-03-30,69v4ZOOomf1TNp59YYB1j7,5bkfPKnHLi6AUP3fJA5Xf5,261
+39,"Тупой
+Юпи, boogshi",17,39.0,10,18955,Тупой,"Юпи, boogshi",109542,True,False,2025-12-19,1ZrJxKCLNjqk4B73SoR7PN,5pOKuJPebDJAr295s5NBTC,110
+40,"Родной город
+Nervy",32,42.0,12,18727,Родной город,Nervy,210125,False,False,2016-09-01,10oSboDn5ncLNjjFIgJXm6,45x4xzIwyNd4GBjP1YRmZj,210
+41,"виски с молоком
+снялцепи",27,38.0,35,18679,виски с молоком,снялцепи,61360,True,False,2025-06-13,2U8WjSfWrXusGaZXinLUtl,1JYcDkXdWTPKdVU1S82UHO,61
+42,"Каждый раз
+Monetochka",23,35.0,58,18671,Каждый раз,Monetochka,208144,False,False,2018-05-25,0yp6xP5xe1qarfugfTixOK,4IjiY0sShCYUEEoOSEwsgY,208
+43,"Полукровка
+Icegergert",43,110.0,2,18467,Полукровка,Icegergert,142222,False,False,2026-02-13,4z3TiM4dsnvWDRcnqf3l0r,50ILscRPxfbSft6q6wdExF,142
+44,"stalk ur socials
+s0rrow",44,80.0,3,18465,stalk ur socials,s0rrow,78024,False,False,2025-11-26,1UNYYQRaWX6QADIJufgNLh,18DmllGM1l2hUefG2JjZVV,78
+45,"End of Beginning
+Djo",11,36.0,13,18181,End of Beginning,Djo,159245,False,False,2022-09-16,5p9HO3XC5P3BLxJs5Mtrhm,3qhlB30KknSejmIvZZLjOD,159
+46,"Lost Angeles
+FRIENDLY THUG 52 NGG",3,48.0,121,18037,Lost Angeles,FRIENDLY THUG 52 NGG,114437,True,False,2023-11-03,5xtbUYHaOycg6HIi10EZdV,11gTRcdz4wK32fghA2vrX7,114
+47,"Беспечный рыцарь тьмы
+Poshlaya Molly",32,41.0,34,18032,Беспечный рыцарь тьмы,Poshlaya Molly,233827,True,False,2020-02-18,0xByDfltDVpk6LDsUMHyI2,2FSfCJu8tac61GwgjGLDZK,234
+48,"Последняя Любовь
+MORGENSHTERN",1,47.0,103,17709,Последняя Любовь,MORGENSHTERN,162526,True,False,2024-03-08,0XNKQFs2Ewb3y0VsFUFc5l,527D034h8WFtVDOBO6GAN5,163
+49,"цветы
+тёмный принц",18,44.0,37,17657,цветы,тёмный принц,98029,False,False,2025-06-13,3jayBSUIK2eqnLCWfJoWwV,5GoC9yZ1KAqzV9V3Oxornv,98
+50,"Быть богатым
+Voskresenskii, Платина",21,45.0,13,17500,Быть богатым,"Voskresenskii, Платина",176862,True,False,2025-11-28,4x79BOihyDga7T7R1ULYC3,3fvTuOnHeSB2OGXNqsmVnd,177
+51,"Катюха
+whitek3d",9,46.0,40,17247,Катюха,whitek3d,77037,True,False,2025-05-02,3IWgGXUSjXN8Lc2fJkAMsP,3Fdo0fNzj2QnPU1SgsNHcV,77
+52,"Между нами
+Lizer",41,51.0,52,16917,Между нами,Lizer,255796,True,False,2019-04-19,0j6G5eiOcrSdlyqaYwtxwS,5DeaUQWxyUxRC9dRFWV1g1,256
+53,"Тону
+HOLLYFLAME",53,,1,16582,Тону,HOLLYFLAME,163000,False,False,2026-02-06,4WSx41vaWVKu4rdK3VpTDX,3dxOjnX03UHPUYW7bBikVu,163
+54,"Aston Martin Muzik
+Big Baby Tape, Платина",54,,1,16491,Aston Martin Muzik,"Big Baby Tape, Платина",198857,True,False,2026-02-20,5NMwoStnfHT4LdETlJSwDT,0D2k4WzG5Qob5k1wkNkZWL,199
+55,"theclubrock
+Benny Bellson",46,68.0,6,16456,theclubrock,Benny Bellson,122188,False,False,2025-08-17,5d853eyaCknmc4SynWaoR6,31SF2unE1SZ51m4O11isG9,122
+56,"Где бы я ни был
+BUSHIDO ZHO",31,53.0,14,16450,Где бы я ни был,BUSHIDO ZHO,141971,True,False,2025-11-14,27kGBCjiz5OXojkKX4xQ6R,6KJ63CHxX3U4E9cpgd4gh5,142
+57,"truth yandere^^ - super slowed
+akkiemi",43,43.0,5,16408,truth yandere^^ - super slowed,akkiemi,106778,True,False,2025-12-19,5QsmdS9RBPIphb0DcpKf6E,6YWn1w1lu72zgNg8TdIbGw,107
+58,"Силуэт (из к/ф «Алиса в Стране Чудес»)
+Ваня Дмитриенко, Аня Пересильд",4,50.0,20,16227,Силуэт (из к/ф «Алиса в Стране Чудес»),"Ваня Дмитриенко, Аня Пересильд",148500,False,False,2025-10-10,1kxqshyCqWuOQJNCTgHKzM,0jXDq4Cc07fy1EaohSYLJt,148
+59,"я не собираюсь мешать
+KRISTIEE",37,64.0,4,15993,я не собираюсь мешать,KRISTIEE,127505,True,False,2025-04-11,0qyv7OappGDi0OyJxcqpVt,5A6e9zwJeFxwyGO6MQCHIZ,128
+60,"Наследство
+Icegergert, SKY RAE",3,55.0,44,15925,Наследство,"Icegergert, SKY RAE",130778,True,False,2025-04-25,4z3TiM4dsnvWDRcnqf3l0r,5XIoRdNKbhG3uFDB0UXWuw,131
+61,"Гикаю
+Платина",61,63.0,2,15851,Гикаю,Платина,129729,True,False,2026-02-13,4TzGOY9RpErzedN02w8Boh,2SJdDv4Hel6SEfdziVyTua,130
+62,"Скандалы и споры
+COMEDOZ",62,137.0,2,15678,Скандалы и споры,COMEDOZ,284785,False,False,2021-11-01,1CAwYkYC5rs1sABF6bF34h,1Gytc7RliV7Hcbl9A68mrl,285
+63,"без тебя
+ink street 101",47,58.0,36,15655,без тебя,ink street 101,200019,False,False,2023-04-25,22DyRE59PPPW0iIGCQOO5v,3JMz8ww3B5rULF1wi5oKNV,200
+64,"Северное сияние
+Ivan Dorn",59,72.0,14,15460,Северное сияние,Ivan Dorn,207524,False,False,2012-05-25,1VZ1TofaV3kj90QJSdg6NG,1A0G37XXBhKJXgBNue6nBU,208
+65,"NO BATIDÃO
+ZXKAI, slxughter",52,52.0,8,15454,NO BATIDÃO,"ZXKAI, slxughter",107933,True,False,2025-09-05,5tIkxADHN80ca0K6HCpWIt,72YttnPRxyHe8zCG50jYhj,108
+66,"NO BATIDÃO - Slowed
+ZXKAI, slxughter",50,57.0,18,15356,NO BATIDÃO - Slowed,"ZXKAI, slxughter",107933,True,False,2025-09-05,5tIkxADHN80ca0K6HCpWIt,72YttnPRxyHe8zCG50jYhj,108
+67,"вклубе
+тёмный принц",13,62.0,36,15353,вклубе,тёмный принц,99681,True,False,2025-06-13,3jayBSUIK2eqnLCWfJoWwV,3jy14G6E0lcNdK9i6h4Uup,100
+68,"Пожары
+Xolidayboy",17,65.0,95,15297,Пожары,Xolidayboy,197771,False,False,2024-02-22,6oTirjGdJPFt3hycC1Rfxb,1zXv6MYOAyjgMA0iPypPkO,198
+69,"Casino
+Icegergert",5,59.0,27,15226,Casino,Icegergert,117346,True,False,2024-11-01,4z3TiM4dsnvWDRcnqf3l0r,15AvaqwdQNlozX2RTVk9yx,117
+70,"Стань
+Max Korzh",14,73.0,59,15189,Стань,Max Korzh,188240,False,False,2013-10-21,5meD8C7oGK5yUEY2T7ZZ7W,475G1r5398lgxVY7Ld7m8r,188
+71,"Эндорфин
+Max Korzh",25,77.0,58,14933,Эндорфин,Max Korzh,268906,False,False,2013-10-21,5meD8C7oGK5yUEY2T7ZZ7W,4GbHNkWtWUIZAL0owhoz1i,269
+72,"мило материшься
+volhey",9,67.0,64,14858,мило материшься,volhey,120397,False,False,2024-12-06,6BHwpXJsWpRi3aIzmAgGu8,4clWtg8OzmLO0TFBY7FGRm,120
+73,"Slow Dancing
+V",30,86.0,6,14597,Slow Dancing,V,187026,False,False,2023-09-08,3JsHnjpbhX4SnySpvpa9DK,5h1BN75CEh8wdSwE1xrbSe,187
+74,"Тмстс
+Poshlaya Molly",55,70.0,81,14594,Тмстс,Poshlaya Molly,160478,True,False,2017-02-24,0xByDfltDVpk6LDsUMHyI2,1jqbg6vgOkK6yyrALTgCfZ,160
+75,"KOOP
+Big Baby Tape, OG Buda",75,,1,14585,KOOP,"Big Baby Tape, OG Buda",153290,True,False,2026-02-20,5NMwoStnfHT4LdETlJSwDT,1Akr1zwqiE0V2eTP2XnaGG,153
+76,"ЧСВ
+Lida, СЕРЕГА ПИРАТ",1,95.0,108,14572,ЧСВ,"Lida, СЕРЕГА ПИРАТ",200100,True,False,2024-02-02,0ChMIwzbYxHbebgoPeETfV,76CHKMe1uNd7IgZeCZufhs,200
+77,"Райские цветы
+Poshlaya Molly",35,78.0,110,14517,Райские цветы,Poshlaya Molly,138512,True,False,2018-01-12,0xByDfltDVpk6LDsUMHyI2,1DSCMhnFgL4BVI6D8fJJ8a,139
+78,"Селфхарм
+Monetochka",1,69.0,44,14489,Селфхарм,Monetochka,188415,False,False,2024-05-24,0yp6xP5xe1qarfugfTixOK,46tUEN0dIhVxYbOgxCvkF4,188
+79,"Научиться бы не париться
+Gradusy",74,74.0,16,14459,Научиться бы не париться,Gradusy,208065,False,False,2012-01-01,4TyLwoVkM8ubyuiIxtVJ9E,7vBW7vVdCDxFa0UeVPM549,208
+80,"NaNaNa
+Aarne, Toxi$, OG Buda",30,149.0,16,14405,NaNaNa,"Aarne, Toxi$, OG Buda",175833,True,False,2025-11-07,5B5qmrbTFvA7TAxWruuwbo,0ETjTLIst5iwZJlt661giq,176
+81,"Сукины дети
+1.Kla$",7,89.0,24,14335,Сукины дети,1.Kla$,220517,True,False,2004-04-10,2KbKmQQqFN6MgbWViBVl06,27OL1h4tIzjpD60oYyEZVu,221
+82,"Клеопатри
+Poshlaya Molly",48,103.0,34,14285,Клеопатри,Poshlaya Molly,185164,False,False,2020-02-18,0xByDfltDVpk6LDsUMHyI2,5TEYAw98yTZlpsvIJc7wq8,185
+83,"summer
+auratoshi",83,127.0,30,14269,summer,auratoshi,78464,False,False,2025-06-06,05xlOZ63adQrS2Y84Ojo6U,4dfDDZfQggrIKwXgikStNE,78
+84,"Любовь HD1080
+Kaspiyskiy Gruz",61,61.0,25,14228,Любовь HD1080,Kaspiyskiy Gruz,178512,True,False,2017-09-12,5g5a3ENOYfn6myyLen218w,61nzEAmKgzWRL5vFuwwd3B,179
+85,"прыгай, дура!
+CUPSIZE",28,71.0,9,14204,"прыгай, дура!",CUPSIZE,119605,True,False,2025-12-26,6piaRBSk79hfoHINy7DMGO,3kRwD3oSUxquvKxBHYvUhq,120
+86,"Сыпь, гармоника!
+СДП",55,60.0,4,14160,"Сыпь, гармоника!",СДП,137489,False,False,2025-12-31,3cPUmBsbDOwuEaKi4creAN,3eWSv2qOc1Gdh873XqX7Jh,137
+87,"Стыцамен
+Ivan Dorn",83,93.0,17,14120,Стыцамен,Ivan Dorn,232568,False,False,2012-05-25,1VZ1TofaV3kj90QJSdg6NG,3E29Ogl0ccy3osBx6VwjxU,233
+88,"INDIAN
+SQWOZ BAB",54,54.0,2,14061,INDIAN,SQWOZ BAB,174512,False,False,2026-02-13,5U2ISoieRzT6TaqiXumcXl,3ehgeDLSEqIXb5oF0t1XpP,175
+89,"Страшный сон 2
+Раковая Выхухоль",11,75.0,21,14056,Страшный сон 2,Раковая Выхухоль,110168,True,False,2024-10-25,7y6TkCfv1kEBd6YmloUGLK,1GaJ8rxMQPzCfdZeMGH82G,110
+90,"Who (Rock Remix)
+Jimin",4,96.0,2,14014,Who (Rock Remix),Jimin,171995,False,False,2024-07-23,1oSPZhvZMIrWW5I41kPkkY,1MC8JLPV4fbvVBqvGSLoDf,172
+91,"миниюбка
+emoslut666",20,84.0,25,13846,миниюбка,emoslut666,78960,False,False,2024-04-12,4UYmYu83rr6K8XKURSLeYn,4c8cveMq2r70IVDbJIUwxv,79
+92,"блюз
+урал гайсин",61,88.0,18,13810,блюз,урал гайсин,117678,True,False,2025-06-06,6CGetCSvhKrqmeKnsaI4Bm,78uUo0Beh7ugFOyKks8JFt,118
+93,"Остров
+My",27,87.0,2,13790,Остров,My,146341,False,False,2018-09-22,3WGL5CRtgYd8Tm5elcbsdV,0uhI1APF1D4scWNrOUCMIw,146
+94,"All The Things She Said
+t.A.T.u.",59,66.0,11,13753,All The Things She Said,t.A.T.u.,214440,True,False,2002,2Q3eZMfDQgT8MhPowKFXYO,4bJygwUKrRgq1stlNXcgMg,214
+95,"Адская колыбельная
+Poshlaya Molly",1,85.0,78,13752,Адская колыбельная,Poshlaya Molly,178296,False,False,2024-08-30,0xByDfltDVpk6LDsUMHyI2,2pyjr4JKVkG03LmWBIusur,178
+96,"Люди
+Дайте танк (!)",30,79.0,107,13729,Люди,Дайте танк (!),162356,False,False,2020-10-02,6iQqWcDg92kre5ykFLwqD8,3rpi29kD9YUDwXz1yhjS7Q,162
+97,"ПУСТОЙ ВОКЗАЛ
+MORGENSHTERN",4,106.0,5,13671,ПУСТОЙ ВОКЗАЛ,MORGENSHTERN,170334,False,False,2025-02-14,0XNKQFs2Ewb3y0VsFUFc5l,31DoKPoVBMXfPcrlb44gF0,170
+98,"Мои глаза сияют
+Locked23",52,108.0,21,13557,Мои глаза сияют,Locked23,94233,False,False,2025-07-25,39sApb6ymY4wXJ48RTrHTi,6OUmc3Awt5z95vCldG1tQz,94
+99,"цена
+madk1d, паранойя",14,113.0,49,13534,цена,"madk1d, паранойя",138344,True,False,2025-03-14,1Q5COYHgA7ch0y3HqCNgwt,2Monu6XcGKsH5d8V53Ww8h,138
+100,"Я твой номер один
+Dima Bilan",91,104.0,18,13471,Я твой номер один,Dima Bilan,189506,False,False,2008-06-10,19rplJ3Uh67C1fNAwq7ohw,4qhH0DyNFzORKJHUBveBVh,190
+101,"Романс
+PIZZA",101,,1,13444,Романс,PIZZA,233295,False,False,2016-10-21,5UmEsxALI1S6DSz5CGs0Sc,2aqmZuRcGvbzXYxYvIQPJE,233
+102,"Пьяный дождь
+Max Korzh",38,109.0,58,13389,Пьяный дождь,Max Korzh,195532,True,False,2017-10-27,5meD8C7oGK5yUEY2T7ZZ7W,5BFADKJgtL2eZ4XZJq8zEc,196
+103,"Sweater Weather
+The Neighbourhood",19,81.0,98,13386,Sweater Weather,The Neighbourhood,240400,False,False,2013-04-22,77SW9BnxLY8rJ0RciFqkHh,2QjOHCTQ1Jl3zawyYOpxh6,240
+104,"LEGACY
+PIXY",104,,1,13379,LEGACY,PIXY,134117,True,False,2026-01-14,5AGVMquElW7QIas7i21Xmz,2jwpT2tPlP8HYVpFXfZMqM,134
+105,"Roaming
+Big Baby Tape, LOVV66",105,,1,13302,Roaming,"Big Baby Tape, LOVV66",175468,True,False,2026-02-20,5NMwoStnfHT4LdETlJSwDT,0pG78hwECzIYrVAADkVoe8,175
+106,"Top Dawg
+ALBLAK 52, Icegergert",47,83.0,15,13243,Top Dawg,"ALBLAK 52, Icegergert",147000,False,False,2025-11-14,0tkZJURRnsezR78T9uHDjq,10PhhJwLrsPxEZThat4V3x,147
+107,"кхм-кхм
+плм",8,91.0,47,13243,кхм-кхм,плм,122033,True,False,2025-01-24,2QGVa5v5FvgZGAUCqpXnqx,0wJ36WwGpJAf40q4Mq95NK,122
+108,"Smells Like Teen Spirit
+Nirvana",76,92.0,62,13147,Smells Like Teen Spirit,Nirvana,301920,False,False,1991-09-26,6olE6TJLqED3rqDCT0FyPh,5ghIJDpPoe3CfHMGu71E6T,302
+109,"я молодой вампир vamp
+урал гайсин",43,76.0,32,13117,я молодой вампир vamp,урал гайсин,91875,True,False,2025-06-06,6CGetCSvhKrqmeKnsaI4Bm,6wkSonQhYvYe1LPeEswTYk,92
+110,"У батарей
+nyan.mp3",12,94.0,15,13097,У батарей,nyan.mp3,105200,False,False,2024-12-20,7sEw8K65V52MWFCVVunhqb,5sGKghKnKrufLzx3fwTr0i,105
+111,"Рыжая давалка
+Кащенко, whyfall, Крайп, ФОРТИ",80,100.0,6,13080,Рыжая давалка,"Кащенко, whyfall, Крайп, ФОРТИ",96845,True,False,2025-12-08,1GIbxbxmH7u3UhRjb6KHOx,5bXBGmGrIOrhW2x2xtlvjy,97
+112,"Fever
+Buckshot, fakemink",102,114.0,8,13075,Fever,"Buckshot, fakemink",144521,True,False,2025-08-22,0HPG2EIdGCP6gjXW0KzrJq,09xhawlPUifhftf8zuie7w,145
+113,"Простужен
+FORTUNA 812, madk1d",49,105.0,17,13033,Простужен,"FORTUNA 812, madk1d",94535,True,False,2024-09-06,4anb8rmk0xipuQP6QZ5IlH,3VnFEw7QY1kDjU5I0VSFPf,95
+114,"первый скилл
+zhanulka",106,118.0,12,13007,первый скилл,zhanulka,125575,True,False,2024-03-01,260kWe4y9lg7YFDsZBgsLv,1FxcGrzFaxNWR9YXfdNQKX,126
+115,"Даже моя бэйби не знает
+Poshlaya Molly",69,101.0,62,12974,Даже моя бэйби не знает,Poshlaya Molly,208000,True,False,2017-02-24,0xByDfltDVpk6LDsUMHyI2,37dd1FfHu4tt2Rvj3cpBVg,208
+116,"Ты Так Красива
+w1kh, kxzey, MiracVR",13,98.0,23,12947,Ты Так Красива,"w1kh, kxzey, MiracVR",173545,False,False,2000-01-01,4BaWgr1EHJ1ckPFOw6hqJm,7qR22DeC64zD4IclpHvg4N,174
+117,"хирург
+7leaf",65,99.0,13,12897,хирург,7leaf,69732,True,False,2025-11-14,4vM8Dv8CFsiLmdPk1XjPv6,1owZR6EaHOaNV4a7gfslTr,70
+118,"nuts
+Lil Peep, rainy bear",100,102.0,35,12877,nuts,"Lil Peep, rainy bear",85360,True,False,2015-12-02,2kCcBybjl3SAtIcwdWpUe3,4k3xDpAdBuM17mNNHhOZkK,85
+119,"Можно я с тобой
+AP$ENT",1,116.0,17,12858,Можно я с тобой,AP$ENT,132293,False,False,2022-07-06,6oiinpr7kwRmyWKVDTZgRT,0MRBhe9wjupFpmdKGh3Xhp,132
+120,"Sladki Snov Rapper 2
+FRIENDLY THUG 52 NGG",17,111.0,115,12813,Sladki Snov Rapper 2,FRIENDLY THUG 52 NGG,134400,True,False,2023-11-03,5xtbUYHaOycg6HIi10EZdV,1lx65Q3Vfy8NsfaA5DXUcJ,134
+121,"ДОМ (Лондон, Прага, Ницца)
+MORGENSHTERN",3,97.0,34,12797,"ДОМ (Лондон, Прага, Ницца)",MORGENSHTERN,153595,False,False,2025-02-14,0XNKQFs2Ewb3y0VsFUFc5l,5rELQYNJgj4btlKsA47hiR,154
+122,"Горы по колено
+Max Korzh",24,136.0,6,12786,Горы по колено,Max Korzh,239910,False,False,2017-10-27,5meD8C7oGK5yUEY2T7ZZ7W,7f6ALwMTMLAhXCfoHYLCsx,240
+123,"Где твоя любовь?
+Max Korzh",48,115.0,8,12772,Где твоя любовь?,Max Korzh,173693,False,False,2013-01-15,5meD8C7oGK5yUEY2T7ZZ7W,7bQHty20BhXNYgvFfp2jgW,174
+124,"Fame is a Gun
+Addison Rae",64,82.0,8,12755,Fame is a Gun,Addison Rae,183237,False,False,2025-06-06,4gvjmrtzydbMpyJaXUtwvP,7B3BwNecBhKvNwSMOOl7Gk,183
+125,"На посту
+Платина, LIL VAN",125,,1,12736,На посту,"Платина, LIL VAN",120020,True,False,2026-02-20,4TzGOY9RpErzedN02w8Boh,33j3wQR7xLq6eBV271j5xk,120
+126,"Turbo (Majestic)
+Big Baby Tape",5,126.0,81,12641,Turbo (Majestic),Big Baby Tape,175610,True,False,2024-08-09,5NMwoStnfHT4LdETlJSwDT,6rOHlBLsBXzJx2k9ZROzEq,176
+127,"Nope your too late i already died
+wifiskeleton, i wanna be a jack-o-lantern",49,107.0,43,12617,Nope your too late i already died,"wifiskeleton, i wanna be a jack-o-lantern",90067,False,False,2024-10-22,0TvvDswOgvPbgSPK2RDf62,0hta2Lb2zKJ7kEnAEZEE3G,90
+128,"Сломана
+Baby Melo, FADE031",8,133.0,55,12575,Сломана,"Baby Melo, FADE031",143294,False,False,2025-02-07,72c2wcAnsUn4VlXiN1uDOs,4OjB6FkYwCeWqsSpTFF7O9,143
+129,"ПОРНХАБ КРИСМАС КЛАБ
+Poshlaya Molly",44,122.0,80,12567,ПОРНХАБ КРИСМАС КЛАБ,Poshlaya Molly,246743,True,False,2018-11-23,0xByDfltDVpk6LDsUMHyI2,5jgFvROeP9DlLl9dMHQEtw,247
+130,"Нимфоманка
+Monetochka",37,117.0,52,12533,Нимфоманка,Monetochka,160886,False,False,2018-05-25,0yp6xP5xe1qarfugfTixOK,5Ni187gYCgJG90rGfMX7CY,161
+131,"Вдыхаю
+Юпи",83,120.0,16,12532,Вдыхаю,Юпи,94581,True,False,2024-12-25,1ZrJxKCLNjqk4B73SoR7PN,6unJb2djvdUb2MBAaaHM3J,95
+132,"Dracula - JENNIE Remix
+Tame Impala, JENNIE",41,112.0,3,12435,Dracula - JENNIE Remix,"Tame Impala, JENNIE",209720,True,False,2026-02-06,5INjqkS1o8h1imAzPqGZBb,5yvVYFDUpbnjcnRBgjwTzM,210
+133,"Who (Shibuyakei Remix)
+Jimin",7,129.0,2,12324,Who (Shibuyakei Remix),Jimin,166809,False,False,2024-07-23,1oSPZhvZMIrWW5I41kPkkY,1PNdJibg1adHD1pTpYBfGc,167
+134,"Christmas Tree
+V",119,119.0,3,12291,Christmas Tree,V,209946,False,False,2021-12-24,3JsHnjpbhX4SnySpvpa9DK,186NCtNk1tUYS7c2DxgJ7O,210
+135,"sil2nt hill
+auratoshi",71,131.0,37,12266,sil2nt hill,auratoshi,117816,False,False,2025-01-03,05xlOZ63adQrS2Y84Ojo6U,5vBMfv4r9a6APlMOMmulDZ,118
+136,"Фонари
+Gorod 312",28,130.0,56,12266,Фонари,Gorod 312,173080,False,False,2006-04-25,3gmRhbUWDRrYqk6EHnckrA,2K373m3ampRHhiR1x5NfBk,173
+137,"питер паркер
+madk1d",46,128.0,48,12244,питер паркер,madk1d,119062,False,False,2024-05-24,1Q5COYHgA7ch0y3HqCNgwt,6FvlCgtlMs2lfIYT4jaBcY,119
+138,"Батареи
+Nervy",26,139.0,25,12200,Батареи,Nervy,193253,False,False,2012-05-22,10oSboDn5ncLNjjFIgJXm6,0Oj8rpo6eiGvJmnLs4ZrkH,193
+139,"Плохая Сука
+GONE.Fludd",31,135.0,53,12134,Плохая Сука,GONE.Fludd,128081,True,False,2021-06-04,0ohUvVskERzK18bvWXFEqi,7GQY5kKP1uZGWSvZ5tOxsN,128
+140,"Официантка
+Папин Олимпос",7,125.0,11,12113,Официантка,Папин Олимпос,225201,True,False,2019-08-23,6St8JkGHB8v3qtD7Srg6PH,3jYcBFmJKukw5vRfQJQENe,225
+141,"таб***ки
+голодный",99,164.0,7,12035,таб***ки,голодный,98224,False,False,2025-03-28,3cJOMPrUIQg5bbSfEzm9AJ,226f8Xp57S5smoh4UbdSgQ,98
+142,"Малиновый рассвет
+Endspiel",43,124.0,71,11936,Малиновый рассвет,Endspiel,233560,True,False,2023-08-25,35m8HjyHmGQxAKfIBVHZpF,1GS1TAA8zc5oGiYE1z9Q53,234
+143,"СЕЙЧАС
+NEWLIGHTCHILD",15,134.0,24,11832,СЕЙЧАС,NEWLIGHTCHILD,99216,True,False,2023-07-21,6OYItdfhVXpz16ZvpFq7Uh,4oi4zOkiJ0x2D9WTTbrPWI,99
+144,"Красавица
+ЯРЧЕ СОЛНЦА",91,143.0,12,11748,Красавица,ЯРЧЕ СОЛНЦА,209352,True,False,2023-03-31,2sh3ikT2XtHlal2uzZESyJ,0vERO6NMUfVUTeUP29ALp1,209
+145,"Ослепительна
+KSB muzic",97,123.0,8,11548,Ослепительна,KSB muzic,179495,True,False,2025-07-11,7MC56NMQNbDk2Xwwc9Wt4p,3DH6xxxA7QAHFtGb7lv1Ft,179
+146,"Feel Good Inc.
+Gorillaz, De La Soul",97,142.0,30,11544,Feel Good Inc.,"Gorillaz, De La Soul",222640,False,False,2005-05-23,3AA28KZvwAUcZuOKwyblJQ,0d28khcov6AiegSCpG5TuT,223
+147,"Мало тебя
+SEREBRO",78,138.0,42,11539,Мало тебя,SEREBRO,225460,False,False,2016-05-27,1Ulwacsns9Me7dz4OVwkiQ,0nlAuSXPTsT3ws2zeNzI7K,225
+148,"Bring Me To Life
+Evanescence",143,146.0,17,11458,Bring Me To Life,Evanescence,235893,False,False,2003-03-04,5nGIFgo0shDenQYSE0Sn7c,0COqiPhxzoWICwFCS4eZcp,236
+149,"TOKYO
+SQWOZ BAB",7,,1,11444,TOKYO,SQWOZ BAB,160824,True,False,2025-02-21,5U2ISoieRzT6TaqiXumcXl,7MjpBQViz7f1133ni9psvu,161
+150,"Живая вода
+Husky",148,,1,11414,Живая вода,Husky,185637,False,False,2025-11-28,2nAUHbKI7TZShUwFpk6G08,3UESXHR0xmFsHH5TpgXlzO,186
+151,"Случайно Наступил На Шприц
+VILLIAN",66,,1,11392,Случайно Наступил На Шприц,VILLIAN,94054,True,False,2025-08-29,4UsmVGTdKwCWC0B86P6N7L,1NBqydK4SvBO8FoIbwAM22,94
+152,"Буду твоим пёсиком
+Poshlaya Molly",88,151.0,53,11315,Буду твоим пёсиком,Poshlaya Molly,196340,True,False,2018-01-12,0xByDfltDVpk6LDsUMHyI2,3peGvpKhK1lBmvk8WdY8N5,196
+153,"Замигает свет
+KENTUKKI",32,163.0,4,11312,Замигает свет,KENTUKKI,233816,True,False,2021-09-24,6ZABFsOXu6JmKCmmV0yauD,1zFKRGiQpMEYoVgm0VM8A7,234
+154,"Поезда
+Женя Трофимов, Комната культуры",9,155.0,111,11296,Поезда,"Женя Трофимов, Комната культуры",179540,False,False,2023-11-28,3JYowG5k65ROJjN5PXx9Ce,3DoKepDy2hXhtWizxMszJS,180
+155,"целую тебя
+CUPSIZE",56,156.0,22,11276,целую тебя,CUPSIZE,129427,False,False,2023-09-29,6piaRBSk79hfoHINy7DMGO,7hrAs40pKmU5eBzbKAJp3A,129
+156,"Ты не такая
+Valentin Strykalo",111,160.0,2,11257,Ты не такая,Valentin Strykalo,237734,False,False,2013-10-20,2zYmwYLeJvcr8vRQe5pQRa,2SQCGwe0sOk1wdqhP5xUbi,238
+157,"Утро
+Дайте танк (!)",33,148.0,6,11223,Утро,Дайте танк (!),147000,False,False,2016-04-24,6iQqWcDg92kre5ykFLwqD8,0aKl63MnUIVKkXlVtp2vLr,147
+158,"ИСКАЛА
+Zemfira",75,140.0,26,11221,ИСКАЛА,Zemfira,214000,False,False,2000-03-28,6oO3QiWdVj5FZQwbdRtsRh,3NHSz1GyC5IeK1soZSjIIX,214
+159,"Dracula
+Tame Impala",133,162.0,3,11212,Dracula,Tame Impala,205308,True,False,2025-10-17,5INjqkS1o8h1imAzPqGZBb,1NXbNEAcPvY5G1xvfN57aA,205
+160,"Never Broke Again
+xxxmanera",2,161.0,8,11201,Never Broke Again,xxxmanera,108068,True,False,2022-04-08,0hAEtx2GQLtMTJj8qycHRr,21LIoC4ZxT3F8xq9gidNbX,108
+161,"unhappy
+s0rrow",161,,1,11195,unhappy,s0rrow,98149,False,False,2025-12-25,1UNYYQRaWX6QADIJufgNLh,2wa1o5Qnt8aqMcoIB471oY,98
+162,"Кукла колдуна
+Korol i Shut",5,175.0,5,11178,Кукла колдуна,Korol i Shut,203920,False,False,1999-01-01,0qc4X567Fs1DUbQ7bS2XSJ,10tFOs5trIbxcBPbLe5nF4,204
+163,"Спать с тобой
+itzice",163,,1,11134,Спать с тобой,itzice,129306,True,False,2025-11-14,1xLo8wsLW8HaHpiHQ3031Q,2h16t48cwEHeJ9MRf4vsBv,129
+164,"Кухни
+Бонд с кнопкой",5,144.0,41,11102,Кухни,Бонд с кнопкой,140800,False,False,2025-02-27,2JrtkA0Z0JxBfEmxL25cP6,69zCrlRTLn4sLeU4fJOzmE,141
+165,"Маленький
+Дайте танк (!)",97,152.0,8,11092,Маленький,Дайте танк (!),244784,False,False,2013-01-07,6iQqWcDg92kre5ykFLwqD8,338H74m9VIvmEByCOu8RP7,245
+166,"Лирика
+Sektor Gaza",126,154.0,23,11062,Лирика,Sektor Gaza,260266,True,False,1993,4W4XLF8i9cHVqwASg8Kqv6,2cMPBRVDmZL48phGwYWXPE,260
+167,"Poker Face
+Lady Gaga",87,145.0,11,11052,Poker Face,Lady Gaga,237200,True,False,2008-01-01,1HY2Jd0NmPuamShAr6KMms,5R8dQOPq8haW94K7mgERlO,237
+168,"Небо поможет нам
+Max Korzh",98,,1,10992,Небо поможет нам,Max Korzh,208640,False,False,2013-01-15,5meD8C7oGK5yUEY2T7ZZ7W,2JbOwPPXejbYYzantCrMRG,209
+169,"Взаправду / awake
+russianmafiaextra",132,132.0,4,10985,Взаправду / awake,russianmafiaextra,117985,True,False,2025-09-08,0HPsQjYD6LzUmy9rD04Q6t,2v8rMcb9q8cH9DiTj3BnHY,118
+170,"Slow Dance (feat. Sofia Carson)
+Jimin, Sofia Carson",7,167.0,2,10923,Slow Dance (feat. Sofia Carson),"Jimin, Sofia Carson",188399,False,False,2024-07-19,1oSPZhvZMIrWW5I41kPkkY,3d2bsbugow8JiNvuaRupFH,188
+171,"Faint
+Linkin Park",117,176.0,7,10856,Faint,Linkin Park,162106,False,False,2003-03-25,6XyY86QOPPrYVGvF9ch6wz,4Yf5bqU3NK4kNOypcrLYwU,162
+172,"TryToFriend
+FORTUNA 812",11,184.0,2,10822,TryToFriend,FORTUNA 812,112423,True,False,2023-12-18,4anb8rmk0xipuQP6QZ5IlH,4aRvnITLcGFWKBbjN6XFVr,112
+173,"Мотылёк
+Max Korzh",70,168.0,4,10773,Мотылёк,Max Korzh,236878,False,False,2013-10-21,5meD8C7oGK5yUEY2T7ZZ7W,3tGcfXzjfMMKW4nZbfdD5H,237
+174,"Тело - убийца
+Игнатий Винтуров",104,153.0,8,10772,Тело - убийца,Игнатий Винтуров,173040,False,False,2025-12-05,57YgeohDkbDOIrH9hOjDkS,3mwHmCxMATylKp2ELRGrv0,173
+175,"Голая
+Gradusy",153,195.0,2,10737,Голая,Gradusy,247358,False,False,2011-01-01,4TyLwoVkM8ubyuiIxtVJ9E,2qViDj3LbJet516NALEznz,247
+176,"мальчик
+кис-кис",5,180.0,4,10731,мальчик,кис-кис,182410,False,False,2019-09-13,4jIvmo6hfAQ04NSOWPVVA3,5jib643FzfmJkxlTyzc67N,182
+177,"loser club
+wifiskeleton, aeter",177,,1,10724,loser club,"wifiskeleton, aeter",81052,True,False,2024-06-05,0TvvDswOgvPbgSPK2RDf62,2NZueN792gbgxi115MywKf,81
+178,"Больше, чем ближе
+NAVAI",178,,1,10715,"Больше, чем ближе",NAVAI,216647,False,False,2026-02-13,73VKEgMtKpysM3ITNxkXDa,5l69g0Zb6n7EKHMMjp0ebS,217
+179,"I Hate Everything About You
+Three Days Grace",126,169.0,7,10708,I Hate Everything About You,Three Days Grace,231480,False,False,2003-04-19,2xiIXseIJcq3nG7C8fHeBj,0M955bMOoilikPXwKLYpoi,231
+180,"Sonne
+Rammstein",16,157.0,8,10681,Sonne,Rammstein,272440,False,False,2001-04-02,6wWVKhxIU2cEi0K81v7HvP,4w3R0GZ2rScJMKlgPJzHRq,272
+181,"We Are The People
+Empire Of The Sun",159,159.0,5,10672,We Are The People,Empire Of The Sun,267373,False,False,2008-10-03,67hb7towEyKvt5Z8Bx306c,3zEN0ii6s4DHHBpnTp3RP7,267
+182,"Ламбада
+T-Fest, Skryptonite",50,178.0,11,10670,Ламбада,"T-Fest, Skryptonite",198124,True,False,2017-03-08,01lZudgXsojt5TBHuygB8r,7FuvJwX4VDPE0bAIq9tfbP,198
+183,"I Got Love
+MiyaGi & Endspiel, Rem Digga",64,165.0,12,10661,I Got Love,"MiyaGi & Endspiel, Rem Digga",276687,False,False,2016-09-09,6L5bLEtpxwd0KOdOr3gtW4,43wgyQXc2M9KmTDUqVzugM,277
+184,"Весь этот мир
+Русский размер",83,186.0,9,10536,Весь этот мир,Русский размер,224413,False,False,2000,4gWwmEIuZFUTKMuYpGwgwg,5PW7qWm6MySmkiKaB7soeS,224
+185,"болен
+dope17, mapt0v",11,171.0,46,10531,болен,"dope17, mapt0v",87673,True,False,2024-09-06,4RsF5SpJb2R481UMri1VT3,4HiXhD2daY4ca5nr977V4e,88
+186,"Ты разбила папину машину
+Poshlaya Molly",118,174.0,6,10521,Ты разбила папину машину,Poshlaya Molly,212554,True,False,2020-02-18,0xByDfltDVpk6LDsUMHyI2,5cFP1DcrvV4vS9gof253Wi,213
+187,"Вахтерам
+Boombox",122,,1,10474,Вахтерам,Boombox,240680,False,False,2006,2c3PFZtun8HemDbDfRPV6G,30d0YcXyQSZQcc2dHdcRhh,241
+188,"Самый лучший день
+Кишлак",6,189.0,4,10433,Самый лучший день,Кишлак,93257,True,False,2022-03-04,44L2bdEufrpXM5S7yn30JJ,6aZw4hMz6ZZqjALf0GAbKy,93
+189,"Under Your Spell
+Snow Strippers",65,190.0,8,10431,Under Your Spell,Snow Strippers,218500,False,False,2023-05-05,6TsAG8Ve1icEC8ydeHm3C8,5q0N5SaFhROG9UQiPukv9p,218
+190,"Как на войне
+Agatha Christie",20,181.0,2,10416,Как на войне,Agatha Christie,245053,False,False,2008-01-01,6UvQrW56NzLbUtAKIdTg8N,6uTcgFOa29uqcnpm8JGzy8,245
+191,"Пачка сигарет
+Kino",113,194.0,6,10398,Пачка сигарет,Kino,266017,False,False,1989-01-01,2jkl2xJVm71azWAgZKyf42,7tjVRlo5QYUpPOocaJb387,266
+192,"Cigarettes out the Window
+TV Girl",138,191.0,3,10395,Cigarettes out the Window,TV Girl,198960,False,False,2016-02-25,0Y6dVaC9DZtPNH4591M42W,6QeYSvYqYUsfBzsApbjDHO,199
+193,"Знакомая
+COMEDOZ",39,185.0,14,10394,Знакомая,COMEDOZ,174073,False,False,2014-12-19,1CAwYkYC5rs1sABF6bF34h,2LHpXQex58l9y48fwIFRf6,174
+194,"Дорадура
+Дора",51,,1,10365,Дорадура,Дора,134034,False,False,2019-11-08,2eiThpX5zH6LFmqP2HY1hL,6C0HG9Rred7RItBZdQSATe,134
+195,"Время
+Max Korzh",93,,1,10342,Время,Max Korzh,218444,False,False,2013-10-21,5meD8C7oGK5yUEY2T7ZZ7W,7qTNNLNMIUEImA7bbRHVbE,218
+196,"Дом Периньон
+Poshlaya Molly, Eldzhey",25,,1,10339,Дом Периньон,"Poshlaya Molly, Eldzhey",174842,True,False,2021-09-17,0xByDfltDVpk6LDsUMHyI2,0i8YObgqnjZYoYJOQbwLHq,175
+197,"Типичная вечеринка с бассейном
+Poshlaya Molly",105,177.0,6,10324,Типичная вечеринка с бассейном,Poshlaya Molly,273807,True,False,2018-01-12,0xByDfltDVpk6LDsUMHyI2,1ndGHWAEXWz9jVr5bAgCrU,274
+198,"AGENT-PROVOCATEUR
+NEWLIGHTCHILD",36,166.0,33,10320,AGENT-PROVOCATEUR,NEWLIGHTCHILD,102631,True,False,2025-05-23,6OYItdfhVXpz16ZvpFq7Uh,7BgRKxGurY7Kds8X74mD88,103
+199,"Звезда по имени Солнце
+Kino",108,,1,10272,Звезда по имени Солнце,Kino,225666,False,False,1989-01-01,2jkl2xJVm71azWAgZKyf42,0WMObwSSmP8k9azseajaKt,226
+200,"Lush Life
+Zara Larsson",85,150.0,8,10266,Lush Life,Zara Larsson,200646,False,False,2017-03-17,1Xylc3o4UrD53lo9CvFvVg,1rIKgCH4H52lrvDcz50hS8,201
